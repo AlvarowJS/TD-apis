@@ -1,0 +1,15 @@
+http://165.22.34.176/user/update
+
+//actualiza un usuario
+{
+    "firstName": "GLORIA",
+    "lastName": "GODOY SEGUNDO",
+    "dni": "22757100",
+    "phone": "988062477",
+    "email": "gloriaalexrg@gmail.com",
+    "user_id": 1490,
+    "password": "22757100",
+    "person_id": 1495,
+    "identification_document_id": 1,
+    "direction": null
+}

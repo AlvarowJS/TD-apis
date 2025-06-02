@@ -1,0 +1,18 @@
+http://165.22.34.176/chargeUser
+// cambiar usuario 
+{
+    "person_id": 1495,
+    "type": 1,
+    "change_entity_id": 0,
+    "dependency_internal_id": 13,
+    "dependency_external_id": 0,
+    "dependency_citizen_id": 46,
+    "startDate": "2025-05-29",
+    "finalDate": "2025-08-29",
+    "detail": "MEMORANDUM N 39-2025-MDPM/GA/SGRRHH",
+    "charge": "SUB GERENTE",
+    "role_internal_id": 3,
+    "role_external_id": 4,
+    "role_citizen_id": 4,
+    "charge_state_id": 1
+}

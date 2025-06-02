@@ -1,0 +1,52 @@
+http://165.22.34.176/chargeAssignment/39
+//muestra los cargos de un usuario
+[
+    {
+        "charge_id": 35,
+        "role_id": 3,
+        "charge": "SUB GERENTE",
+        "type": 1,
+        "detail": null,
+        "startDate": null,
+        "finalDate": null,
+        "detail_id": null,
+        "state": "Inactivo",
+        "charge_state_id": 2,
+        "entity": "MUNICIPALIDAD DISTRITAL DE PILLCO MARCA",
+        "dependency": "SUB GERENCIA DE FISCALIZACION TRIBUTARIA",
+        "dependency_id": 26,
+        "role": "Usuario Interno"
+    },
+    {
+        "charge_id": 1012,
+        "role_id": 4,
+        "charge": "Ciudadano",
+        "type": 2,
+        "detail": null,
+        "startDate": null,
+        "finalDate": null,
+        "detail_id": null,
+        "state": "Activo",
+        "charge_state_id": 1,
+        "entity": "MUNICIPALIDAD DISTRITAL DE PILLCO MARCA",
+        "dependency": "USUARIO EXTERNO",
+        "dependency_id": 46,
+        "role": "Usuario Externo"
+    },
+    {
+        "charge_id": 17494,
+        "role_id": 2,
+        "charge": "Sub Gerente",
+        "type": 1,
+        "detail": "MEMORANDUM N 0144-2024-MDPM/GA/SGRRHH",
+        "startDate": "2024-08-08",
+        "finalDate": "2025-12-08",
+        "detail_id": 246,
+        "state": "Inactivo",
+        "charge_state_id": 2,
+        "entity": "MUNICIPALIDAD DISTRITAL DE PILLCO MARCA",
+        "dependency": "SUB  GERENCIA DE ORIENTACION Y TRAMITE DOCUMENTARIO",
+        "dependency_id": 13,
+        "role": "Administrador del Sistema"
+    }
+]
