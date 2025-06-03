@@ -1,0 +1,4069 @@
+{
+    "origin": [
+        {
+            "id": 1,
+            "origin": "INTERNO"
+        },
+        {
+            "id": 2,
+            "origin": "ENTIDAD EXTERNA"
+        },
+        {
+            "id": 3,
+            "origin": "CIUDADANO"
+        }
+    ],
+    "type_reception": [
+        {
+            "id": 1,
+            "reception": "DIRECTA"
+        },
+        {
+            "id": 2,
+            "reception": "CORREO ELECTRÓNICO"
+        },
+        {
+            "id": 3,
+            "reception": "FAX"
+        }
+    ],
+    "date": "2025-06-03",
+    "entity": 5,
+    "dependency_type": [
+        {
+            "id": 1,
+            "description": "DEPENDE DEL ROF",
+            "created_at": "2019-10-21 15:39:06",
+            "updated_at": "2019-10-21 15:39:06"
+        },
+        {
+            "id": 2,
+            "description": "NO DEPENDE DEL ROF",
+            "created_at": "2019-10-21 15:39:06",
+            "updated_at": "2019-10-21 15:39:06"
+        }
+    ],
+    "dependency_type_id": 2,
+    "dependency_process_id": 66,
+    "person_id": null,
+    "details": [
+        {
+            "id": 1,
+            "detail": "SIMPLE"
+        },
+        {
+            "id": 2,
+            "detail": "MÚLTIPLE"
+        }
+    ],
+    "priorities": [
+        {
+            "id": 1,
+            "priority": "IMPORTANTE"
+        },
+        {
+            "id": 2,
+            "priority": "NORMAL"
+        },
+        {
+            "id": 3,
+            "priority": "URGENTE"
+        }
+    ],
+    "entities": [
+        {
+            "id": 2,
+            "label": "GOBIERNO REGIONAL HUANUCO"
+        },
+        {
+            "id": 3,
+            "label": "MUNICIPALIDAD PROVINCIAL DE HUANUCO"
+        },
+        {
+            "id": 4,
+            "label": "MUNICIPALIDAD DISTRITAL DE AMARILIS"
+        },
+        {
+            "id": 5,
+            "label": "MUNICIPALIDAD DISTRITAL DE PILLCO MARCA"
+        },
+        {
+            "id": 6,
+            "label": "POLICIA NACIONAL DEL PERU"
+        },
+        {
+            "id": 7,
+            "label": "REGION POLICIAL HUANUCO - SAN MARTIN"
+        },
+        {
+            "id": 8,
+            "label": "UNIV. NAC. HERMILIO VALDIZAN HUANUCO"
+        },
+        {
+            "id": 9,
+            "label": "MINISTERIO PUBLICO - FISCALÍA DE LA NACIÓN"
+        },
+        {
+            "id": 10,
+            "label": "CORTE SUPERIOR DE JUSTICIA DE HUANUCO"
+        },
+        {
+            "id": 12,
+            "label": "ELECTROCENTRO S.A."
+        },
+        {
+            "id": 13,
+            "label": "I.E. JUAN VELASCO ALVARADO"
+        },
+        {
+            "id": 14,
+            "label": "TELEFONICA DEL PERU SAC"
+        },
+        {
+            "id": 15,
+            "label": "MUNICIPALIDAD CENTRO POBLADO DE SANTA ROSA DE PITUMAMA"
+        },
+        {
+            "id": 16,
+            "label": "MINISTERIO DE EDUCACION"
+        },
+        {
+            "id": 17,
+            "label": "DIRECCION REGIONAL DE SALUD"
+        },
+        {
+            "id": 18,
+            "label": "CLAS PILLCO MARCA"
+        },
+        {
+            "id": 19,
+            "label": "COINVIA CONSULTORIA DE INVERSIONES VIABLES SOCIEDAD ANONIMA CERRADA"
+        },
+        {
+            "id": 20,
+            "label": "CONSORCIO CHB JUAN VELASCO"
+        },
+        {
+            "id": 21,
+            "label": "C & C PERUVIAN LEO EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA"
+        },
+        {
+            "id": 22,
+            "label": "MUNICIPALIDAD DEL CENTRO POBLADO DE ANDABAMBA"
+        },
+        {
+            "id": 23,
+            "label": "SERVICIOS MULTIPLES \"JIREH\""
+        },
+        {
+            "id": 24,
+            "label": "CONSORCIO AMTORO"
+        },
+        {
+            "id": 25,
+            "label": "SERVICIOS Y VENTAS EN GENERAL \"ELOIN\""
+        },
+        {
+            "id": 26,
+            "label": "SERVICIO DE SANEAMIENTO AMBIENTAL Y VENTA DE PRODUCTOS QUÍMICOS \"SHALOM\""
+        },
+        {
+            "id": 27,
+            "label": "INSTTUCION EDUCATIVA Nº 33421 LAS PALMERAS PILLCO MARCA"
+        },
+        {
+            "id": 28,
+            "label": "RCTEC E.I.R.L"
+        },
+        {
+            "id": 29,
+            "label": "INSTITUCIÓN EDUCATIVA PÚBLICA DE EDUCACIÓN BÁSICA REGULAR \"MARIO VARGAS LLOSA\" POTRACANCHA"
+        },
+        {
+            "id": 30,
+            "label": "MUNICIPALIDAD DEL CENTRO POBLADO CORAZON DE JESUS"
+        },
+        {
+            "id": 31,
+            "label": "INSTITUCION EDUCATIVA INICIAL 689 DE PITUMAMA - ROSAVERO"
+        },
+        {
+            "id": 32,
+            "label": "MINISTERIO DE AGRICULTURA Y RIEGO"
+        },
+        {
+            "id": 33,
+            "label": "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS"
+        },
+        {
+            "id": 34,
+            "label": "MINISTERIO DE LA MUJER Y POBLACIONES VULNERABLES"
+        },
+        {
+            "id": 35,
+            "label": "INSTITUTO VIAL PROVINCIAL DE HUANUCO | IVP-HUANUCO"
+        },
+        {
+            "id": 36,
+            "label": "INSTITUCION EDUCATIVA INICIAL Nº 692 DE PILLCO MARCA"
+        },
+        {
+            "id": 37,
+            "label": "ASOCIACON ECOLOGICA LEON DE HUANUCO"
+        },
+        {
+            "id": 38,
+            "label": "INSTITUCION EDUCATIVA INICIAL Nº 687 APROVIC"
+        },
+        {
+            "id": 39,
+            "label": "INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCION DE LA PROPIEDAD PRIVADA - INDECOPI"
+        },
+        {
+            "id": 40,
+            "label": "INSTITUTO DE DESARROLLO Y  MEDIO AMBIENTE"
+        },
+        {
+            "id": 41,
+            "label": "INSTITUCIÓN PÚBLICA MILITAR MARIANO IGNACIO PRADO DE HUANUCO"
+        },
+        {
+            "id": 42,
+            "label": "INSTITUCIÓN EDUCATIVA PUBLICA MILITAR"
+        },
+        {
+            "id": 43,
+            "label": "CENTRO DE ARBITRAJE DE LA CÁMARA DE COMERCIO E INDUSTRIAS DE HUANUCO"
+        },
+        {
+            "id": 44,
+            "label": "INSTITUCIÓN EDUCATIVA \"CARLOS NORIEGA JIMENEZ\""
+        },
+        {
+            "id": 45,
+            "label": "CENTRO DE EDUCACIÓN BÁSICA ALTERNATIVA (CEBA) JUAN VELASCO ALVARADO"
+        },
+        {
+            "id": 46,
+            "label": "INMOBILIARIA , CONTRATISTAS, PROVEEDORES, CONSULTORES Y EJECUTORES - ISHANK PERU"
+        },
+        {
+            "id": 47,
+            "label": "PROGRAMA TRABAJA PERU"
+        },
+        {
+            "id": 48,
+            "label": "MINISTERIO DE DESARROLLO E INCLUSIÓN SOCIAL - MIDIS"
+        },
+        {
+            "id": 49,
+            "label": "CONSORCIO MAGA"
+        },
+        {
+            "id": 50,
+            "label": "INVERSIONES EN TI JESUS S.A.C."
+        },
+        {
+            "id": 51,
+            "label": "MUNICIPALIDAD DISTRITAL DE TOMAYQUICHUA"
+        },
+        {
+            "id": 52,
+            "label": "MINISTERIO DEL AMBIENTE"
+        },
+        {
+            "id": 53,
+            "label": "VIGARZA SAC"
+        },
+        {
+            "id": 54,
+            "label": "CONTRALORÍA GENERAL DE LA REPÚBLICA"
+        },
+        {
+            "id": 55,
+            "label": "INSTITUTO NACIONAL PENITENCIARIO"
+        },
+        {
+            "id": 56,
+            "label": "CONSORCIO CATEDRAL"
+        },
+        {
+            "id": 57,
+            "label": "DIRECCIÓN REGIONAL DE COMERCIO EXTERIOR Y TURISMO"
+        },
+        {
+            "id": 58,
+            "label": "DIRECCIÓN REGIONAL DE COMERCIO EXTERIOR Y TURISMO"
+        },
+        {
+            "id": 59,
+            "label": "MUNICIPALIDAD DISTRITAL DE SAN PABLO DE PILLAO"
+        },
+        {
+            "id": 60,
+            "label": "DIRECCION REGIONAL DE EDUCACIÓN"
+        },
+        {
+            "id": 61,
+            "label": "J & V RESGUARDO SELVA SAC"
+        },
+        {
+            "id": 62,
+            "label": "MUNICIPALIDAD DISTRITAL DE CONCHAMARCA"
+        },
+        {
+            "id": 63,
+            "label": "BANCO DE LA NACION"
+        },
+        {
+            "id": 64,
+            "label": "REGISTRO NACIONAL DE IDENTIFACION Y ESTADO CIVIL"
+        },
+        {
+            "id": 65,
+            "label": "CONSTRUCTORA Y CONSULTORA SAGA Y ROZE INGENIEROS"
+        },
+        {
+            "id": 66,
+            "label": "CONSULTORIA Y EJECUCION DE PROYECTOS DE INGENIERIA CONSUCODE Nº C27022"
+        },
+        {
+            "id": 67,
+            "label": "INGENIERO MECANICO - MIGUEL EINER NUÑEZ ALMONACID"
+        },
+        {
+            "id": 68,
+            "label": "SUPERINTENDENTE NACIONAL DE LOS REGISTROS PÚBLICOS"
+        },
+        {
+            "id": 69,
+            "label": "EMPRESA CONSTRUCTORA HUARICHACA"
+        },
+        {
+            "id": 70,
+            "label": "MINISTERIO DEL INTERIOR"
+        },
+        {
+            "id": 71,
+            "label": "CONSULTORA Y CONSTRUCTORA CRAMER E.I.R.L."
+        },
+        {
+            "id": 72,
+            "label": "CORTE SUPERIOR DE JUSTICIA DE PASCO"
+        },
+        {
+            "id": 73,
+            "label": "DIRECCIÓN REGIONAL DE ENERGÍA, MINAS E HIDROCARBUROS"
+        },
+        {
+            "id": 74,
+            "label": "SENASA"
+        },
+        {
+            "id": 75,
+            "label": "ANBRISA CONSULTORES EIRL"
+        },
+        {
+            "id": 76,
+            "label": "MINISTERIO DE VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO"
+        },
+        {
+            "id": 77,
+            "label": "MINISTERIO DE LA PRODUCCIÓN"
+        },
+        {
+            "id": 78,
+            "label": "CONSORCIO SAN MARTIN"
+        },
+        {
+            "id": 79,
+            "label": "UNIDAD DE GESTION EDUCATIVA LOCAL - UGEL"
+        },
+        {
+            "id": 80,
+            "label": "BANDTEL"
+        },
+        {
+            "id": 81,
+            "label": "INSTITUCIÓN EDUCATIVA 33421 - LAS PALMERAS"
+        },
+        {
+            "id": 82,
+            "label": "MUNICIPALIDAD PROVINCIAL DANIEL ALCIDES CARRION"
+        },
+        {
+            "id": 83,
+            "label": "INSTITUCIÓN EDUCATIVA INTEGRADA Nro. 32271"
+        },
+        {
+            "id": 84,
+            "label": "DIRECCION DESCONCENTRADA DE CULTURA DE HUANUCO"
+        },
+        {
+            "id": 85,
+            "label": "FERRETERIA ALVA"
+        },
+        {
+            "id": 86,
+            "label": "FERRETERIA VARGAS EIRL"
+        },
+        {
+            "id": 87,
+            "label": "IMPRENTA & EDITORIAL PAGINA3 S.A.C."
+        },
+        {
+            "id": 88,
+            "label": "COLEGIO DE ARQUITECTOS DEL PERÚ"
+        },
+        {
+            "id": 89,
+            "label": "INSTITUCIÓN EDUCATIVA 180-PTM"
+        },
+        {
+            "id": 94,
+            "label": "INSTITUCIÓN EDUCATIVA PRIMARIA Nro. 32781 DE VICSACOCHA"
+        },
+        {
+            "id": 95,
+            "label": "JENCAS CONSULTORA Y CONSTRUCTORA E.I.R.L."
+        },
+        {
+            "id": 96,
+            "label": "JURADO  NACIONAL DE ELECCIONES"
+        },
+        {
+            "id": 97,
+            "label": "CAJA HUANCAYO"
+        },
+        {
+            "id": 98,
+            "label": "LIDERES SIN FRONTERAS"
+        },
+        {
+            "id": 99,
+            "label": "MINISTERIO DE TRANSPORTES Y COMUNICACIONES"
+        },
+        {
+            "id": 100,
+            "label": "MUNICIPALIDAD DEL CENTRO POBLADO DE COLPA BAJA"
+        },
+        {
+            "id": 101,
+            "label": "MINISTERIO DE DEFENSA"
+        },
+        {
+            "id": 102,
+            "label": "INSTITUCIÓN EDUCATIVA INICIAL Nro, 007 NUEVO MUNDO"
+        },
+        {
+            "id": 104,
+            "label": "INSTITUCIÓN EDUCATIVA INICIAL Nro, 007 NUEVO MUNDO"
+        },
+        {
+            "id": 106,
+            "label": "INSTITUCIÓN EDUCATIVA 247 \"LAS FLORES\""
+        },
+        {
+            "id": 109,
+            "label": "DIRECCIÓN REGIONAL DE TRABAJO  Y PROMOCIÓN DEL EMPLEO"
+        },
+        {
+            "id": 131,
+            "label": "COLEGIO DE INGENIEROS DE HUANUCO"
+        },
+        {
+            "id": 132,
+            "label": "C.I. AUGUSTO CARDICH LOARTE"
+        },
+        {
+            "id": 133,
+            "label": "ASOCIACIÓN PAZ Y ESPERANZA"
+        },
+        {
+            "id": 134,
+            "label": "INSTITUTO NACIONAL DE ESTADISTICA E INFORMATICA"
+        },
+        {
+            "id": 135,
+            "label": "EJERCITO DEL PERU"
+        },
+        {
+            "id": 136,
+            "label": "INVERIONES SEMMESA S.C.R.L"
+        },
+        {
+            "id": 137,
+            "label": "MUNICIPALIDAD DISTRITAL DE PAUCAR"
+        },
+        {
+            "id": 138,
+            "label": "AMERICA MOVIL PERU SAC"
+        },
+        {
+            "id": 139,
+            "label": "MULTISERVICIOS EDIHCA E.I.R.L."
+        },
+        {
+            "id": 140,
+            "label": "CC AMAZONAS S.A.C."
+        },
+        {
+            "id": 141,
+            "label": "PRESIDENCIA DEL CONSEJO DE MINISTROS"
+        },
+        {
+            "id": 142,
+            "label": "INSTITUCIÓN EDUCATIVA Nro. 32973 EL GRAN MAESTRO - PITUMAMA"
+        },
+        {
+            "id": 143,
+            "label": "CONSULTORIA CONSTRUCTORA Y MULTISERVICIOS"
+        },
+        {
+            "id": 144,
+            "label": "MUNICIPALIDAD DISTRITAL DE SAN MIGUEL DE CAURI"
+        },
+        {
+            "id": 145,
+            "label": "MULTISERVICIOS CAMVIL"
+        },
+        {
+            "id": 146,
+            "label": "INSTITUCION EDUCATIVA INICIAL No. 444"
+        },
+        {
+            "id": 147,
+            "label": "INSTITUCION EDUCATIVA INICIAL N° 690 - SAN GABRIEL"
+        },
+        {
+            "id": 148,
+            "label": "EPS SEDA HUANUCO"
+        },
+        {
+            "id": 149,
+            "label": "MUNICIPALIDAD DISTRITAL DE JOSE CRESPO Y CASTLLO"
+        },
+        {
+            "id": 150,
+            "label": "ORGANIZACION NO GUBERNAMENTAL DE DESARROLLO INTEGRADO LOS PUEBLOS ANDINO AMAZÓNICOS"
+        },
+        {
+            "id": 161,
+            "label": "CONSORCIO SAN MARTIN"
+        },
+        {
+            "id": 162,
+            "label": "CONSULTORES Y EJECUTORES L\"DAMARIS EMPRESA INDIVIDUAL"
+        },
+        {
+            "id": 163,
+            "label": "ORGANISMO SUPERVISOR DE LA INVERSION DE ENERGIA Y MINERIA - OSINERGMIN"
+        },
+        {
+            "id": 164,
+            "label": "CONSORCIO WALCKER SOBERON"
+        },
+        {
+            "id": 165,
+            "label": "DEFENSORIA DEL PUEBLO"
+        },
+        {
+            "id": 166,
+            "label": "BANCO CONTINENTAL"
+        },
+        {
+            "id": 167,
+            "label": "SUNAT"
+        },
+        {
+            "id": 168,
+            "label": "GM & FLORES CONTRATISTAS GENERAL E.I.R.L."
+        },
+        {
+            "id": 169,
+            "label": "SENCICO"
+        },
+        {
+            "id": 170,
+            "label": "MUNICIPALIDAD DE CENTRO POBLADO DE MARABAMBA"
+        },
+        {
+            "id": 171,
+            "label": "INSTITUCIÓN EDUCATIVA RAMIRO PRIALE PRIALE"
+        },
+        {
+            "id": 172,
+            "label": "MEGA COURIER & LOGISTICS SOCIEDAD ANONIMA CERRADO"
+        },
+        {
+            "id": 173,
+            "label": "GH & GR"
+        },
+        {
+            "id": 174,
+            "label": "CLINICA DENTAL ODONTO PEKES"
+        },
+        {
+            "id": 175,
+            "label": "MINISTERIO DE ECONOMÍA Y FINANZAS"
+        },
+        {
+            "id": 176,
+            "label": "IMPRESIONES Y MERCHANDISING - PIXEL"
+        },
+        {
+            "id": 177,
+            "label": "MOBOFI"
+        },
+        {
+            "id": 178,
+            "label": "COSORCIO COINPRO SAC & FAMEDI SAC"
+        },
+        {
+            "id": 179,
+            "label": "SUPERINTENDENCIA NACIONAL DE FISCALIZACIÓN LABORAL"
+        },
+        {
+            "id": 180,
+            "label": "COLEGIO  DE ABOGADOS"
+        },
+        {
+            "id": 181,
+            "label": "ORGANISMO DE EVALUACION Y FISCALIZACION AMBIENTAL - OEFA"
+        },
+        {
+            "id": 182,
+            "label": "VICTORIA APUESTAS DEPORTIVAS"
+        },
+        {
+            "id": 183,
+            "label": "CONSORCIO VIAL VIA CRUCIAL"
+        },
+        {
+            "id": 184,
+            "label": "CEREBAN"
+        },
+        {
+            "id": 185,
+            "label": "MUNICIPALIDAD DISTRITAL DE YARUMAYO"
+        },
+        {
+            "id": 186,
+            "label": "ESSALUD"
+        },
+        {
+            "id": 187,
+            "label": "CAJA RURAL DE AHORRO Y CREDITO S.A. - LOS ANDES"
+        },
+        {
+            "id": 188,
+            "label": "CONSORCIO 4 VIAS - HUANUCO"
+        },
+        {
+            "id": 189,
+            "label": "CENTRO DE CONCILIACIÓN EXTRAJUDICIAL IGUALDAD Y PAZ HUANUQUEÑA - CCEIP´H"
+        },
+        {
+            "id": 213,
+            "label": "BANCO DE CRÉDITO"
+        },
+        {
+            "id": 218,
+            "label": "SUPERINTENDENCIA NACIONAL DE SERVICIOS DE SANEAMIENTO"
+        },
+        {
+            "id": 219,
+            "label": "INVERSIONES IMPERIO SELVA"
+        },
+        {
+            "id": 220,
+            "label": "VIETTEL PERU SAC"
+        },
+        {
+            "id": 222,
+            "label": "PREFECTURA REGIONAL DE HUANUCO"
+        },
+        {
+            "id": 223,
+            "label": "COLEGIO REGIONAL DE OBSTETRAS HUANUCO"
+        },
+        {
+            "id": 224,
+            "label": "MULTISERVICIOS GENERALES \"AMMY\""
+        },
+        {
+            "id": 225,
+            "label": "GRUPO AFEMAR"
+        },
+        {
+            "id": 226,
+            "label": "MUNICIPALIDAD PROVINCIAL DE HUAMALIES"
+        },
+        {
+            "id": 227,
+            "label": "UNIVERSIDAD AGRARIA DE LA MOLINA"
+        },
+        {
+            "id": 228,
+            "label": "CAJA CUSCO"
+        },
+        {
+            "id": 229,
+            "label": "COOPERATIVA SAN FRANCISCO"
+        },
+        {
+            "id": 230,
+            "label": "IE. Nº 32271 DE ANDABAMBA"
+        },
+        {
+            "id": 231,
+            "label": "CONSULTORA Y CONSTRUCTORA GARCIA INGENIEROS E.I.R.L"
+        },
+        {
+            "id": 232,
+            "label": "MASTERCONS PERU S.R.L"
+        },
+        {
+            "id": 233,
+            "label": "COSTRUCTORA & CONSULTORA JCAROM E.I.R.L"
+        },
+        {
+            "id": 241,
+            "label": "SM MECATRONIC MECANICA Y TECNOLOGIA"
+        },
+        {
+            "id": 242,
+            "label": "MINISTERIO DE ENERGIA Y MINAS"
+        },
+        {
+            "id": 243,
+            "label": "INSTITUCION EDUCATIVA ANDRES FERNANDEZ GARRIDO"
+        },
+        {
+            "id": 244,
+            "label": "PICON S.A.C"
+        },
+        {
+            "id": 245,
+            "label": "CENTRO DE CONCILIACION EXTRAJUDICIAL \"STHETIZZ\""
+        },
+        {
+            "id": 246,
+            "label": "PRODUCTOS QUIMICOS MEDICOS SAC"
+        },
+        {
+            "id": 247,
+            "label": "ASOCIACIÓN DE AFP"
+        },
+        {
+            "id": 248,
+            "label": "MUNICIPALIDAD DISTRITAL DE SAN FRANCISCO DE CAYRAN"
+        },
+        {
+            "id": 249,
+            "label": "GERENCIA REGIONAL DE RECURSOS NATURALES Y GESTION AMBIENTAL"
+        },
+        {
+            "id": 252,
+            "label": "INSTITUCION EDUCATIVA 32036 - PUMACAN"
+        },
+        {
+            "id": 253,
+            "label": "INSTITUCION EDUCATIVA GUARDIA CIVIL"
+        },
+        {
+            "id": 254,
+            "label": "I.E. INICIAL Nº 688 ARCORRAGRA"
+        },
+        {
+            "id": 255,
+            "label": "SERVICIOS DE LIMPIEZA SERLIM H.C."
+        },
+        {
+            "id": 256,
+            "label": "INVERSIONES FIGUEROA R."
+        },
+        {
+            "id": 257,
+            "label": "CONSULTORA Y CONSTRUCTORA GRUPO 3A SCRL"
+        },
+        {
+            "id": 258,
+            "label": "UNIVERSIDAD NACIONAL DANIEL ALOMIA ROBLES"
+        },
+        {
+            "id": 259,
+            "label": "DIRECCIÓN REGIONAL DE EDUCACIÓN DE HUÁNUCO"
+        },
+        {
+            "id": 260,
+            "label": "MEDIO AMBIENTE AGUA & SIG EIRL"
+        },
+        {
+            "id": 261,
+            "label": "MULTISERVICIOS LUZ"
+        },
+        {
+            "id": 262,
+            "label": "GEOCONTRUCTOR"
+        },
+        {
+            "id": 271,
+            "label": "FUERO MILITAR POLICIAL"
+        },
+        {
+            "id": 272,
+            "label": "I. E. P \"SAN ISIDRO\""
+        },
+        {
+            "id": 273,
+            "label": "COLEGIO DE CONTADORES PÚBLICOS DE HUÁNUCO"
+        },
+        {
+            "id": 274,
+            "label": "MESA DE CONCERTACIÓN"
+        },
+        {
+            "id": 282,
+            "label": "GESTIONES PERU"
+        },
+        {
+            "id": 283,
+            "label": "CONGRESO DE LA REPÚBLICA"
+        },
+        {
+            "id": 284,
+            "label": "OTRAS ENTIDADES"
+        },
+        {
+            "id": 288,
+            "label": "CAJA MAYNAS"
+        },
+        {
+            "id": 301,
+            "label": "CREDISCOTIA"
+        },
+        {
+            "id": 302,
+            "label": "MINISTERIO DE CULTURA"
+        },
+        {
+            "id": 303,
+            "label": "MUNICIPALIDAD PROVINCIAL DE YAROWILCA"
+        },
+        {
+            "id": 304,
+            "label": "ASOCIACIÓN DE DAMAS HUANUQUEÑAS"
+        },
+        {
+            "id": 305,
+            "label": "MOTA - ENGIL"
+        },
+        {
+            "id": 306,
+            "label": "FEDERACIÓN NACIONAL DE OBREROS MUNICIPALES DEL PERU"
+        },
+        {
+            "id": 307,
+            "label": "GRUPO B&E COMPANY SAC-HCO"
+        },
+        {
+            "id": 308,
+            "label": "ONPE"
+        },
+        {
+            "id": 309,
+            "label": "T- CAPACITA"
+        },
+        {
+            "id": 310,
+            "label": "MINISTERIO DE ENERGIA Y MINAS"
+        },
+        {
+            "id": 311,
+            "label": "MUNICIPALIDAD PROVINCIAL DE LEONCIO PRADO"
+        },
+        {
+            "id": 312,
+            "label": "MULTISERVICIOS FALCON"
+        },
+        {
+            "id": 313,
+            "label": "MUNICIPALIDAD DE JESUS MARÍA"
+        },
+        {
+            "id": 314,
+            "label": "IGLESIA DE DIOS DEL PERÚ"
+        },
+        {
+            "id": 315,
+            "label": "MUNICIPALIDAD DISTRITAL DE TUPAC"
+        },
+        {
+            "id": 316,
+            "label": "INTERBANK"
+        },
+        {
+            "id": 317,
+            "label": "GRIFO PRIMAX"
+        },
+        {
+            "id": 318,
+            "label": "SCOTIABANK"
+        },
+        {
+            "id": 319,
+            "label": "INSTITUTO GEOLOGICO, MINERO Y METALUTGICO - INGEMMENT"
+        },
+        {
+            "id": 320,
+            "label": "MUNICIPALIDAD METROPOLITANA DE LIMA"
+        },
+        {
+            "id": 321,
+            "label": "RED NACIONAL DE PROMOCIÓN DE LA MUJER"
+        },
+        {
+            "id": 322,
+            "label": "I.E.I N° 842  - COCHAPATA"
+        },
+        {
+            "id": 323,
+            "label": "I.E.P CARLOS NORIEGA JIMENEZ"
+        },
+        {
+            "id": 324,
+            "label": "MUNICIPALIDAD DISTRITAL DE MONZÓN"
+        },
+        {
+            "id": 325,
+            "label": "MUNICIPALIDAD DE VILLA EL SLAVADOR"
+        },
+        {
+            "id": 326,
+            "label": "MUNICIPALIDAD DE CHINCHAO"
+        },
+        {
+            "id": 327,
+            "label": "CAJA AREQUIPA"
+        },
+        {
+            "id": 328,
+            "label": "COOPERATIVA DE AHORROS Y CRÉDITO SAN SALVADOR DE MILPO"
+        },
+        {
+            "id": 329,
+            "label": "CORREDOR DE SEGUROS"
+        },
+        {
+            "id": 330,
+            "label": "I.E.I,P JAVIER PULGAR VIDAL"
+        },
+        {
+            "id": 331,
+            "label": "MULTISERVICIOS FORCH"
+        },
+        {
+            "id": 332,
+            "label": "OFICINA DE NORMALIZACIÓN PREVIOCIONAL DEL PERÚ"
+        },
+        {
+            "id": 333,
+            "label": "I..E.I N° 689 - ROSABERO"
+        },
+        {
+            "id": 334,
+            "label": "I.E.I. N° 689 - ROSAVERO"
+        },
+        {
+            "id": 335,
+            "label": "I.E.E. N° 403 ISABEL LA CATOLICA"
+        },
+        {
+            "id": 336,
+            "label": "GRIFO RAULITO   - HUÁNUCO"
+        },
+        {
+            "id": 337,
+            "label": "I.E.I STEVE JOBS COLLEGUE"
+        },
+        {
+            "id": 338,
+            "label": "FERRETERIA DERIAN E.I.R.L"
+        },
+        {
+            "id": 339,
+            "label": "FRACTALCONSE S.CR.L"
+        },
+        {
+            "id": 340,
+            "label": "INVERSIONES FERRETERA CASTRO E.I.R.L"
+        },
+        {
+            "id": 341,
+            "label": "I.E. N° 231 MI PEQUEÑO MUNDO - YANAG PILLCO MARCA"
+        },
+        {
+            "id": 342,
+            "label": "CORPORACIÓN JANAMPA"
+        },
+        {
+            "id": 343,
+            "label": "SEGURO INTEGRAL DE SALUD (SIS)"
+        },
+        {
+            "id": 344,
+            "label": "MINISTERIO SALUD RED SALUD HUANUCO"
+        },
+        {
+            "id": 345,
+            "label": "ORGANISMO DE FORMALIZACIÓN DE LA PROPIEDAD (COFOPRI)"
+        },
+        {
+            "id": 346,
+            "label": "INSTITUCION EDUCATIVA INICIAL N° 180 SANTA ROSA PITUMAMA"
+        },
+        {
+            "id": 347,
+            "label": "INADEX \"BELEN\" S.C.R.L"
+        },
+        {
+            "id": 348,
+            "label": "MINISTERIO DE DESARROLLO AGRARIO Y RIEGO"
+        },
+        {
+            "id": 349,
+            "label": "CLINIVET HUANUCO S.R.L"
+        },
+        {
+            "id": 350,
+            "label": "CLUB LAWN TENNIS"
+        },
+        {
+            "id": 354,
+            "label": "SUPERINTENDENCIA DE BANCA, SEGUROS Y AFP"
+        },
+        {
+            "id": 355,
+            "label": "MIDIS"
+        },
+        {
+            "id": 356,
+            "label": "GROUP J-J INVERSIONES"
+        },
+        {
+            "id": 357,
+            "label": "CONSURGE INGENIERIA Y AFINES S.C.R.L"
+        },
+        {
+            "id": 358,
+            "label": "ASOCIACIÓN DE MUNICIPALIDADES DISTRITALES DEL PERÚ \"AMUDIP\""
+        },
+        {
+            "id": 359,
+            "label": "NOTARIA LASO"
+        },
+        {
+            "id": 363,
+            "label": "NOTARIA MIGUEL ESPINOZA FIGUEROA"
+        },
+        {
+            "id": 364,
+            "label": "CONSORCIO  CCORSAC"
+        },
+        {
+            "id": 365,
+            "label": "CONTRATISTAS GENERALES F&M CORP"
+        },
+        {
+            "id": 366,
+            "label": "MINISTERIO DE TRABAJO Y PROMOCIÓN DEL EMPLEO"
+        },
+        {
+            "id": 367,
+            "label": "CONSORCIO INGENIERIA Y CONSTRUCCIÓN."
+        },
+        {
+            "id": 368,
+            "label": "OFICINA DESCONCENTRADA DE SERVICIOS HUÁNUCO"
+        },
+        {
+            "id": 369,
+            "label": "CONSULTING CENTER S&Q S.C.R.L"
+        },
+        {
+            "id": 370,
+            "label": "I.E INICIAL N° 007 NUEVO AMANECER VICHAYCOTO"
+        },
+        {
+            "id": 371,
+            "label": "PRESTADORA DE SERVICIOS DE SALUD PILLCO E.I.R.L"
+        },
+        {
+            "id": 372,
+            "label": "CUERPO GENERAL DE BOMBEROS VOLUNTARIOS DEL PERÚ"
+        },
+        {
+            "id": 373,
+            "label": "MINISTERIO ENERGIA Y MINAS"
+        },
+        {
+            "id": 374,
+            "label": "PRIMA AFP - GRUPO CREDITO"
+        },
+        {
+            "id": 375,
+            "label": "CENTURY SUN INVERSIONES S.R.L"
+        },
+        {
+            "id": 376,
+            "label": "SERVICE EXPRE4SS J Y F"
+        },
+        {
+            "id": 377,
+            "label": "ORGANISMO SUPERVISOR DE CONTRATACIONES DEL ESTADO - OSCE"
+        },
+        {
+            "id": 378,
+            "label": "DHAKA SERVICES S.A.C"
+        },
+        {
+            "id": 387,
+            "label": "GROUP COMPANY CONSERVIS PERU S.C.R.L"
+        },
+        {
+            "id": 388,
+            "label": "ENTEL PERÚ S.A"
+        },
+        {
+            "id": 389,
+            "label": "FORTALEZA S.R.L"
+        },
+        {
+            "id": 390,
+            "label": "INCALAB DEL PERU S.A.C"
+        },
+        {
+            "id": 391,
+            "label": "UNIO PER DE RADIO Y TV SRL"
+        },
+        {
+            "id": 395,
+            "label": "NOTARIO DOMINIQUE PALACIOS"
+        },
+        {
+            "id": 396,
+            "label": "UK VIVENTIAL HUANUCO - FRANQUISIA"
+        },
+        {
+            "id": 397,
+            "label": "CORTE SUPERIOR DE JUSTICIA DE LIMA SUR"
+        },
+        {
+            "id": 398,
+            "label": "GRUPO NALEX S.C.R.L"
+        },
+        {
+            "id": 399,
+            "label": "D,LIMBO E.I.R.L"
+        },
+        {
+            "id": 400,
+            "label": "MUNICIPALIDAD DE SAN BORJA"
+        },
+        {
+            "id": 401,
+            "label": "JARDINES DE LA ESPERANZA"
+        },
+        {
+            "id": 402,
+            "label": "CORPORACION IMPORTADORA ROSALES"
+        },
+        {
+            "id": 403,
+            "label": "MUNICIPALIDAD DISTRITAL DE YACUS"
+        },
+        {
+            "id": 404,
+            "label": "I.E. NUESTRA SEÑORA DE LAS MERCEDES"
+        },
+        {
+            "id": 405,
+            "label": "GRUPO ACADÉMICO CONEXIONES ARCHIVO"
+        },
+        {
+            "id": 406,
+            "label": "MUNICIPALIDAD DISTRITAL DE SAN PEDRO DE CHAULAN"
+        },
+        {
+            "id": 407,
+            "label": "CENTRO TOXICOLÓGICO S.A.C - CETOX"
+        },
+        {
+            "id": 408,
+            "label": "ASOCIACIÓN DE MUNICIPALIDADES DEL PERÚ - AMPE"
+        },
+        {
+            "id": 409,
+            "label": "MINISTERIO DE SALUD"
+        },
+        {
+            "id": 410,
+            "label": "TRIBUNAL CONSTITUCIONAL"
+        },
+        {
+            "id": 411,
+            "label": "INSTITUCION EDUCATIVA INICIAL N°539 UNGUYMARAN"
+        },
+        {
+            "id": 412,
+            "label": "DIRECCION GENERAL CONTRA LA VIOLENCIA DE GENERO"
+        },
+        {
+            "id": 413,
+            "label": "ASOCIACIÓN PERUANA DE AUTORES Y COMPOSITORES"
+        },
+        {
+            "id": 414,
+            "label": "MUNICIPALIDAD DISTRITAL DE MARGOS"
+        },
+        {
+            "id": 418,
+            "label": "GOB HCO"
+        },
+        {
+            "id": 419,
+            "label": "CAMBIO CLIMÁTICO Y POLÍTICAS AMBIENTALES"
+        },
+        {
+            "id": 420,
+            "label": "GOBIERNO REGIONAL DE PASCO"
+        },
+        {
+            "id": 421,
+            "label": "OPTICA TECNOLOGIES S.A.C"
+        },
+        {
+            "id": 422,
+            "label": "SERVICENTRO AVILA EIRL"
+        },
+        {
+            "id": 423,
+            "label": "PARROQUIA \"SEÑOR LA DIVINA MISERICORDIA\""
+        },
+        {
+            "id": 424,
+            "label": "MUNICIPALIDAD PROVINCIAL DE AZÁNGARO"
+        },
+        {
+            "id": 425,
+            "label": "CORTE SUPRIOR DE JUSTICIA DE TACNA"
+        },
+        {
+            "id": 426,
+            "label": "DIVISION DE INVESTIGACION DE LAVADO DE ACTIVOS PDC"
+        },
+        {
+            "id": 427,
+            "label": "DRS"
+        },
+        {
+            "id": 428,
+            "label": "CAMARA DE COMERCIO E INDUSTRIAS DE HUANUCO"
+        },
+        {
+            "id": 429,
+            "label": "MUNICIPALIDAD DISTRITAL DE SANTA ANA DE TUSI"
+        },
+        {
+            "id": 433,
+            "label": "FISCALIA PROVINCIAL ESPECIALIZADA EN DELITOS DE TRATA DE PERSONAS DE HUANUCO"
+        },
+        {
+            "id": 434,
+            "label": "INSTITUTO DE EDUCACIÓN SUPERIOR JUAN BOSCO DE HUÁNUCO"
+        },
+        {
+            "id": 435,
+            "label": "MUNICIPALIDAD PROVINCIAL DE AMBO"
+        },
+        {
+            "id": 436,
+            "label": "COLEGIO DE LICENCIADOS DE ADMNISTRACION"
+        },
+        {
+            "id": 437,
+            "label": "AUTORIDAD NACIONAL DEL SERVICIO CIVIL"
+        },
+        {
+            "id": 438,
+            "label": "ONG JUNTOS POR EL VIVIR"
+        },
+        {
+            "id": 439,
+            "label": "RICHARD'SON"
+        },
+        {
+            "id": 440,
+            "label": "INMOVILIARIA N&Y"
+        },
+        {
+            "id": 441,
+            "label": "GRUPO LAEL"
+        },
+        {
+            "id": 442,
+            "label": "DISTRIBUIDORA E IMPORTADORA FERRETERA SIMON EIRL"
+        },
+        {
+            "id": 443,
+            "label": "CONSTRUCTORA MOAL PERU SAC"
+        },
+        {
+            "id": 444,
+            "label": "KHAPAJG CONTRATISTAS GENERALES SAC"
+        },
+        {
+            "id": 448,
+            "label": "SERVICIOS MULTIPLES VAMME SCRL"
+        },
+        {
+            "id": 449,
+            "label": "I.E.I N°247 \" LAS FLORES\""
+        },
+        {
+            "id": 450,
+            "label": "EMPRESA DE TRANSPORTES C&A ANDINITO EXPRESS EIRL"
+        },
+        {
+            "id": 451,
+            "label": "PERUHUANUCO SAC"
+        },
+        {
+            "id": 452,
+            "label": "IMAGEN CORPORATIVA R&R S.R.L"
+        },
+        {
+            "id": 453,
+            "label": "SHAUYA MOTORS EIRL"
+        },
+        {
+            "id": 454,
+            "label": "C&CA CONSULTORES Y EJECUTORES DE OBRAS SAC"
+        },
+        {
+            "id": 455,
+            "label": "AUTORIDAD NACIONAL DEL AGUA"
+        },
+        {
+            "id": 456,
+            "label": "MIJA SOLUTIONS CENTER EIRL"
+        },
+        {
+            "id": 457,
+            "label": "MARPE SRL"
+        },
+        {
+            "id": 458,
+            "label": "MULTISERVICIOS AYLLU EIRL"
+        },
+        {
+            "id": 459,
+            "label": "CORPORACION ATOMIC C&J SAC"
+        },
+        {
+            "id": 460,
+            "label": "CONSTRUCTORA Y CONSULTORA HUACACHINO E.I.R.L."
+        },
+        {
+            "id": 468,
+            "label": "IMPRENTA & EDITORIAL PAGINA3 S.A.C"
+        },
+        {
+            "id": 469,
+            "label": "OXCORP E.I.R.L"
+        },
+        {
+            "id": 470,
+            "label": "N INDUSTRIAL E.I.R.L."
+        },
+        {
+            "id": 471,
+            "label": "GRUPO NIFER SOCIEDAD ANONIMA CERRADA"
+        },
+        {
+            "id": 472,
+            "label": "ELIVAT S.A.C.S"
+        },
+        {
+            "id": 473,
+            "label": "CONSTRUCTORA Y CONSULTORES FALIM E.I.R.L."
+        },
+        {
+            "id": 474,
+            "label": "PITAURUS INVERSIONES EIRL"
+        },
+        {
+            "id": 475,
+            "label": "GOBIERNO REGIONAL SAN MARTIN"
+        },
+        {
+            "id": 476,
+            "label": "SERVICIOS MULTIPLES EL GOLFO"
+        },
+        {
+            "id": 477,
+            "label": "MUNICIPALIDAD DISTRITAL DE UMARI"
+        },
+        {
+            "id": 478,
+            "label": "MUNICIPALIDAD DEL CENTRO POBLADO LLICUA"
+        },
+        {
+            "id": 482,
+            "label": "SG SSOMAC INGENIEROS S.R.L."
+        },
+        {
+            "id": 483,
+            "label": "MUNICIPALIDAD DISTRITAL DE SANTA MARIA DEL VALLE"
+        },
+        {
+            "id": 484,
+            "label": "MUNICIPALIDAD PROVINCIAL DE LAURICOCHA"
+        },
+        {
+            "id": 485,
+            "label": "I.E CESAR VALLEJO -PAUCARBAMBA"
+        },
+        {
+            "id": 486,
+            "label": "SABIO NACIONAL ANTUNEZ  DE MAYOLO"
+        },
+        {
+            "id": 487,
+            "label": "CORPORACION STRUVE INGENIEROS SAC"
+        },
+        {
+            "id": 488,
+            "label": "CORPORACION GRUPO BENDEZU SAC"
+        },
+        {
+            "id": 489,
+            "label": "REAL PLAZA SRL"
+        },
+        {
+            "id": 490,
+            "label": "CORMAN S.A.C"
+        },
+        {
+            "id": 491,
+            "label": "CONSULTORES & CONTRATISTAS S.A.C"
+        },
+        {
+            "id": 492,
+            "label": "COMERCIALIZADORA Y CONSTRUCTORA GBQ - PUÑOS SAC"
+        },
+        {
+            "id": 493,
+            "label": "CONSORCIO KOTOSH"
+        },
+        {
+            "id": 501,
+            "label": "CAYACO CONTRATISTA E INVERSIONES GENERALES E.I.R.L"
+        },
+        {
+            "id": 508,
+            "label": "CENTRO DE CAPACITACION TECNICA CECATEC - GRUPO MINERO EMPRESA"
+        },
+        {
+            "id": 509,
+            "label": "MOBILIO E.I.R.L."
+        },
+        {
+            "id": 510,
+            "label": "INGENIERIA Y CONSULTORIA CALIXTO E.I.R.L."
+        },
+        {
+            "id": 511,
+            "label": "FERRETERIA ANGIE"
+        },
+        {
+            "id": 512,
+            "label": "SAFIRO CONTRATISTAS E INVERSIONES GENERALES EIRL"
+        },
+        {
+            "id": 513,
+            "label": "DIARIO EL SIGLO"
+        },
+        {
+            "id": 514,
+            "label": "INGENIERIA INVERSIONES SPC"
+        },
+        {
+            "id": 515,
+            "label": "TJ PROYECTA Y CONSTRUYE SAC"
+        },
+        {
+            "id": 516,
+            "label": "Rasos EIRL"
+        },
+        {
+            "id": 520,
+            "label": "CONSORCIO VIRGEN DEL CARMEN - UNHEVAL"
+        },
+        {
+            "id": 521,
+            "label": "MULTISERVICIOS MOVIHOGAR EIRL"
+        },
+        {
+            "id": 522,
+            "label": "BITEL"
+        },
+        {
+            "id": 523,
+            "label": "CISMINIG FACTORY EIRL"
+        },
+        {
+            "id": 524,
+            "label": "MINISTERIO DE COMERCIO EXTERIOR Y TURISMO"
+        },
+        {
+            "id": 525,
+            "label": "CONSORCIO C&A EMPERADOR"
+        },
+        {
+            "id": 526,
+            "label": "INSTITUCION EDUCATIVA PARTICULAR ADVANCED SCHOOL PERU EIRL"
+        },
+        {
+            "id": 527,
+            "label": "COMITE GREMIAL DE EMPRESAS EXTRACTORAS DE MATERIALES NO METÁLICOS DE hUÁNUCO"
+        },
+        {
+            "id": 528,
+            "label": "HIAR CONSTRUCCION & SERVICIOS GENERALES EIRL"
+        },
+        {
+            "id": 529,
+            "label": "ASOC NACIONAL DE PERIODISTAS DEL PERU"
+        },
+        {
+            "id": 530,
+            "label": "ESTRATEGIA COMERCIAL SAC"
+        },
+        {
+            "id": 534,
+            "label": "CONSULTORES Y EJECUTORES JAVIER BP EIRL"
+        },
+        {
+            "id": 535,
+            "label": "CONSTRUCTORA Y CONSULTORA YURI KAN SCRL"
+        },
+        {
+            "id": 536,
+            "label": "COOP. AHOR. Y CRED. TRAB. VOLCAN LTDA.392"
+        },
+        {
+            "id": 537,
+            "label": "WAPRO E.I.R.L."
+        },
+        {
+            "id": 538,
+            "label": "CONSULTORA & CONSTRUCTORA CHEMSA SAC"
+        },
+        {
+            "id": 539,
+            "label": "YSG CONTRATISTAS Y CONSULTORES S.A.C"
+        },
+        {
+            "id": 540,
+            "label": "WELFARE AND DEVELOPMENT CONSULTING PERÚ SAC"
+        },
+        {
+            "id": 541,
+            "label": "ABAD´S E.I.R.L."
+        },
+        {
+            "id": 542,
+            "label": "INGENIEROS A & J EMPRESARIOS JIREH SAC"
+        },
+        {
+            "id": 543,
+            "label": "SUCAMEC"
+        },
+        {
+            "id": 544,
+            "label": "CLINICA DE CORTA ESTANCIA ROCA EIRL"
+        },
+        {
+            "id": 545,
+            "label": "TRANSPORTES HUALLAGA TOURS SRL"
+        },
+        {
+            "id": 546,
+            "label": "AMERICA MOVIL PERU S.A.C."
+        },
+        {
+            "id": 547,
+            "label": "MUNICIPALIDAD DISTRITAL DE CASTILLO GRANDE"
+        },
+        {
+            "id": 548,
+            "label": "GOBIERNO REGIONAL JUNIN"
+        },
+        {
+            "id": 549,
+            "label": "MUNICIPALIDAD DELEGADA DEL CENTRO POBLADO SANTO DOMINGO DE NAUYAN"
+        },
+        {
+            "id": 550,
+            "label": "CONSORCIO SEÑOR DE EXALTACION"
+        },
+        {
+            "id": 551,
+            "label": "UNIVERSIDAD CATOLICA DE TRUJILLO"
+        },
+        {
+            "id": 569,
+            "label": "CONSTRUCTORA Y CONSULTORA N Y C AEQ. E. ING. SAC."
+        },
+        {
+            "id": 570,
+            "label": "MIDIS"
+        },
+        {
+            "id": 571,
+            "label": "MUNICIPALIDAD DISTRITAL DE VILCABAMBA"
+        },
+        {
+            "id": 575,
+            "label": "INSTITUCION EDUCATIVA INICIAL N° 687 APROVICA-PILLCO MARCA"
+        },
+        {
+            "id": 589,
+            "label": "MUNICIPALIDAD DE CHURUBAMBA"
+        },
+        {
+            "id": 590,
+            "label": "MILUG"
+        },
+        {
+            "id": 628,
+            "label": "MIMAF PERU EIRL"
+        },
+        {
+            "id": 629,
+            "label": "TITAN SEGURITY S.A.C."
+        },
+        {
+            "id": 630,
+            "label": "UNIVERSIDAD NACIONAL AGRARIA DE LA SELVA - TINGO MARIA"
+        },
+        {
+            "id": 631,
+            "label": "WARE CORPORATION"
+        },
+        {
+            "id": 632,
+            "label": "INVERSIONES EL ANCASHINO S.A.C."
+        },
+        {
+            "id": 633,
+            "label": "C & CA Consultores y ejecutores de obras S.A.C."
+        },
+        {
+            "id": 646,
+            "label": "LIHON CORPORATION"
+        },
+        {
+            "id": 647,
+            "label": "MUNICIPALIDAD DISTRITAL MARIANO DÁMASO BERAÚN"
+        },
+        {
+            "id": 648,
+            "label": "GRUPO FOROS Y CONVENCIONES PERU S.A.C.S"
+        },
+        {
+            "id": 649,
+            "label": "ASOCIACION CIVILO EDUCATIVA Y POLITICA TELENTUM PERU"
+        },
+        {
+            "id": 650,
+            "label": "PARLAMENTO ANDINO"
+        },
+        {
+            "id": 651,
+            "label": "MUNICIPALIDAD DEL CENTRO POBLADO DE SAN PEDRO DE RACCHA"
+        },
+        {
+            "id": 652,
+            "label": "LOCALES AT SAC"
+        },
+        {
+            "id": 653,
+            "label": "SITES DEL PERU S.A.C."
+        },
+        {
+            "id": 654,
+            "label": "GERENTE GENERAL"
+        },
+        {
+            "id": 655,
+            "label": "MUNICIPALIDAD DISTRITAL DE YARINACOCHA"
+        },
+        {
+            "id": 656,
+            "label": "HOTEL SPRING"
+        },
+        {
+            "id": 657,
+            "label": "CAJA MAYNAS"
+        },
+        {
+            "id": 658,
+            "label": "PESCO PERU S.A.C."
+        },
+        {
+            "id": 659,
+            "label": "DISTRILUZ"
+        },
+        {
+            "id": 660,
+            "label": "IREPAZ"
+        },
+        {
+            "id": 661,
+            "label": "MEGA MUNDO S.A.C."
+        },
+        {
+            "id": 662,
+            "label": "RED DE MUNICIPALIDADES URBANAS Y RURALES DEL PERU - REMURPE"
+        },
+        {
+            "id": 663,
+            "label": "MUNICIPALIDADDE JACAS CHICO"
+        },
+        {
+            "id": 664,
+            "label": "MUNICIPALIDAD DISTRITAL DE JACAS CHICO"
+        },
+        {
+            "id": 665,
+            "label": "BRAVO & BUENO SOCIEDAD ANOMINA CERRADA"
+        },
+        {
+            "id": 666,
+            "label": "PROCURADURIA GENERAL DEL ESTADO"
+        },
+        {
+            "id": 669,
+            "label": "MUNICIPALIDAD DISTRITAL DE LA MORADA"
+        },
+        {
+            "id": 670,
+            "label": "INSTITUTO DE EDUCACION SUPERIOR ISABEL LA CATOLICA"
+        },
+        {
+            "id": 671,
+            "label": "MUNICIPALIDAD PROVINCIAL DE SAN M ARTIN"
+        },
+        {
+            "id": 672,
+            "label": "MUNICIPALIDAD DISTRITAL EL TAMBO"
+        },
+        {
+            "id": 673,
+            "label": "ORGANIZACIONES SISTER CITIES AMERICA - IDEAS PERU"
+        },
+        {
+            "id": 674,
+            "label": "INSTITUCION EDUCATIVA PRIVADA \"LAS AMERICAS\""
+        },
+        {
+            "id": 675,
+            "label": "I.E.I. GABIREL AGUILAR NALVARTE- SAN FRANCISCO DE CAYRAN"
+        },
+        {
+            "id": 676,
+            "label": "DIRECCION REGIONAL DE AGRICULTURA"
+        },
+        {
+            "id": 677,
+            "label": "SENATI"
+        },
+        {
+            "id": 678,
+            "label": "EMPRESA DE TRANSPORTES TURISMO LAS BRISAS"
+        },
+        {
+            "id": 679,
+            "label": "GRUPO N & J 707 EXPRESS E.I.R.L."
+        },
+        {
+            "id": 684,
+            "label": "NOTARIA"
+        },
+        {
+            "id": 696,
+            "label": "MUNICIPALIDAD  PROVINCIAL DE TOCACHE"
+        },
+        {
+            "id": 707,
+            "label": "INSTITUCION EDUCATIVA INICIAL NRO. 275 - CANCHARAPAN"
+        },
+        {
+            "id": 708,
+            "label": "JGM CITV VERIFICA S.A.C."
+        },
+        {
+            "id": 709,
+            "label": "ALLY MICUY"
+        },
+        {
+            "id": 710,
+            "label": "ZL INVERSIONES"
+        },
+        {
+            "id": 728,
+            "label": "MUNICIPALIDAD DE MAGDALENA DEL MAR"
+        },
+        {
+            "id": 737,
+            "label": "ASOCIACION PERUANA DE AUTORES Y COMPOSITORES - HUANUCO"
+        },
+        {
+            "id": 741,
+            "label": "UNIVERSIDAD DE LIMA"
+        },
+        {
+            "id": 742,
+            "label": "4º JUZGADO INV. PREPARATORIA - DELITOS AD. T"
+        },
+        {
+            "id": 743,
+            "label": "COMPAÑIA EMBOTELLADORA, LA UNION SOCIEDAD ANONIMA"
+        },
+        {
+            "id": 744,
+            "label": "BANCO DE COMERCIO"
+        },
+        {
+            "id": 745,
+            "label": "COMISION DE VIVIENDA , CONSTRUCCION Y SANEAMIENTO"
+        },
+        {
+            "id": 746,
+            "label": "COORPORACION PERU"
+        },
+        {
+            "id": 754,
+            "label": "INSTITUCION EDUCATIVA PRIVADA \"ALESSANDRO VOLTA\""
+        },
+        {
+            "id": 755,
+            "label": "MINISTERIO DE DESARROLLO AGRARIO Y RIEGO"
+        },
+        {
+            "id": 756,
+            "label": "DIRECCION GENERAL DE GESTION FISCAL DE LOS RECURSOS HUMANOS"
+        },
+        {
+            "id": 757,
+            "label": "CENTRO PROMOTOR DE CRECIMIENTO Y DESARROLLO SOCIAL"
+        },
+        {
+            "id": 758,
+            "label": "IMAX INGENIERIA MAXIMA E.I.R.L."
+        },
+        {
+            "id": 759,
+            "label": "FEDERACION PERUANA DE VOLEIBOL"
+        },
+        {
+            "id": 760,
+            "label": "CORTE SUPERIOR DE JUSTICIA LIMA"
+        },
+        {
+            "id": 761,
+            "label": "IMPORT & NEGOCIACIONES KORI SOCIEDAD ANONIMA CERRADA"
+        },
+        {
+            "id": 762,
+            "label": "CONSORCIO MDIVET"
+        },
+        {
+            "id": 768,
+            "label": "NEGOCIOS E INVERSIONES INMOVILIARIAS B Y P  EIRL"
+        },
+        {
+            "id": 769,
+            "label": "DIOCESIS DE HUANUCO"
+        },
+        {
+            "id": 770,
+            "label": "AGENCIA MASS PUBLICIDAD S.A.C."
+        },
+        {
+            "id": 771,
+            "label": "S & V PROTECCION Y RESGUARDO S.A.C."
+        },
+        {
+            "id": 772,
+            "label": "EMPRESA DE SERVICIOS EDUCATIVOS MA PILLCO MARCA"
+        },
+        {
+            "id": 773,
+            "label": "ONG - INMACULADA VIRGEN DE LA PUERTA ROJA"
+        },
+        {
+            "id": 774,
+            "label": "CONTRATISTA Y CONSULTORES HURSEQ"
+        },
+        {
+            "id": 777,
+            "label": "INSTITUTO GEOLOGICO MINERO Y METALURGICO -INGEMMET"
+        },
+        {
+            "id": 778,
+            "label": "HONORABLE MUNICIPALIDAD PROVINCIAL DE PASCO"
+        },
+        {
+            "id": 781,
+            "label": "OFICINA GENERAL DE PLANEAMIENTO Y PRESUPUESTO"
+        },
+        {
+            "id": 782,
+            "label": "SUBPREFECTA DISTRITAL DE PILLCO MARCA"
+        },
+        {
+            "id": 783,
+            "label": "FARMACIOA AGRICOLA TIERRA"
+        },
+        {
+            "id": 784,
+            "label": "REGION POLICIAL  HCO. - COMANDANTE PNP - HUANUCO"
+        },
+        {
+            "id": 785,
+            "label": "MUNICIPALIDAD DE NUEVO CHIMBOTE"
+        },
+        {
+            "id": 786,
+            "label": "MOBOFI SAC"
+        },
+        {
+            "id": 787,
+            "label": "INVERSIONES LECHE MASS S.A.C."
+        },
+        {
+            "id": 788,
+            "label": "SEÑOR DE LOS MILAGROS SEGURITY S.A.C."
+        },
+        {
+            "id": 789,
+            "label": "DIRECCION GENERAL DE INFRAESTRUCTURA HIDRAULICA Y RIEGO"
+        },
+        {
+            "id": 790,
+            "label": "FISCALIA PROVINCIAL PENAL DE AMARILIS - TERCER DESPACHO"
+        },
+        {
+            "id": 791,
+            "label": "CRUZANTO CONSULTORA Y CONSTRUCTORA EMPRESA INDIVIODUAL DE RESPONSABILIDAD LIMITADA"
+        },
+        {
+            "id": 792,
+            "label": "MUNICIPALIDAD DISTRITAL DE BAÑOS"
+        },
+        {
+            "id": 793,
+            "label": "FISCALIA SUPRAPROVINCIAL CORPORATIVA ESPECIALIZADA EN DELITOS E CORRUPCION DE FUNCIONARIOS - TERCER DESPACHO"
+        },
+        {
+            "id": 794,
+            "label": "FACULTAD DE ECONOMIA"
+        },
+        {
+            "id": 795,
+            "label": "EMPRESA CONSECIONARIA ELECTRO UCAYALI S.A."
+        },
+        {
+            "id": 805,
+            "label": "SEGURIDAD TOTAL N & W"
+        },
+        {
+            "id": 806,
+            "label": "INSTITUTO TECNOLOGICO DE LA PRODUCCION"
+        },
+        {
+            "id": 807,
+            "label": "ASOCIACION DIRECTORIO NACIONAL DE REGIDORES Y EX REGIDORES DEL PERU - DINARE PERU"
+        },
+        {
+            "id": 808,
+            "label": "CETPRO CARELI"
+        },
+        {
+            "id": 809,
+            "label": "CONSORCIO SUPERVISION HUANUCO"
+        },
+        {
+            "id": 810,
+            "label": "COLEGIO DE PSICOLOGOS DEL PERU"
+        },
+        {
+            "id": 811,
+            "label": "CONSORCIO CONSTRUCTOR"
+        },
+        {
+            "id": 838,
+            "label": "EMPRESA INDIVIDUAL R.L."
+        },
+        {
+            "id": 839,
+            "label": "GRUPO MASS.COM SAC"
+        },
+        {
+            "id": 840,
+            "label": "COLEGIO DE INGENIEROS DE JUNIN"
+        },
+        {
+            "id": 841,
+            "label": "TABLEROS   EN EL ORIENTE S.A.C."
+        }
+    ],
+    "provided": [
+        {
+            "id": 1,
+            "label": "ATENCION"
+        },
+        {
+            "id": 2,
+            "label": "TRAMITAR"
+        },
+        {
+            "id": 3,
+            "label": "CONOCIMIENTO"
+        },
+        {
+            "id": 4,
+            "label": "SEGUIMIENTO"
+        },
+        {
+            "id": 5,
+            "label": "CONTROL"
+        },
+        {
+            "id": 6,
+            "label": "VISTO BUENO"
+        },
+        {
+            "id": 7,
+            "label": "ASISTENCIA"
+        },
+        {
+            "id": 8,
+            "label": "DISPONIBILIDAD Y CERTIFICACION PRESUPUESTAL"
+        },
+        {
+            "id": 9,
+            "label": "AUTORIZADO"
+        },
+        {
+            "id": 10,
+            "label": "REVISION Y TRAMITE"
+        },
+        {
+            "id": 11,
+            "label": "CUMPLIMIENTO"
+        },
+        {
+            "id": 12,
+            "label": "REMITA LO SOLICITADO"
+        },
+        {
+            "id": 13,
+            "label": "EVALUACIÓN"
+        },
+        {
+            "id": 14,
+            "label": "CONOCIMIENTO Y FINES"
+        },
+        {
+            "id": 15,
+            "label": "AUTORIZACION"
+        },
+        {
+            "id": 16,
+            "label": "PARA SU INFORME"
+        },
+        {
+            "id": 17,
+            "label": "SU CONSTATACIÓN DOMICILIARIA"
+        },
+        {
+            "id": 18,
+            "label": "INVITACION"
+        }
+    ],
+    "dependency": 282,
+    "auth": 2,
+    "entity_external": [
+        {
+            "id": 2,
+            "label": "GOBIERNO REGIONAL HUANUCO"
+        },
+        {
+            "id": 3,
+            "label": "MUNICIPALIDAD PROVINCIAL DE HUANUCO"
+        },
+        {
+            "id": 4,
+            "label": "MUNICIPALIDAD DISTRITAL DE AMARILIS"
+        },
+        {
+            "id": 6,
+            "label": "POLICIA NACIONAL DEL PERU"
+        },
+        {
+            "id": 7,
+            "label": "REGION POLICIAL HUANUCO - SAN MARTIN"
+        },
+        {
+            "id": 8,
+            "label": "UNIV. NAC. HERMILIO VALDIZAN HUANUCO"
+        },
+        {
+            "id": 9,
+            "label": "MINISTERIO PUBLICO - FISCALÍA DE LA NACIÓN"
+        },
+        {
+            "id": 10,
+            "label": "CORTE SUPERIOR DE JUSTICIA DE HUANUCO"
+        },
+        {
+            "id": 12,
+            "label": "ELECTROCENTRO S.A."
+        },
+        {
+            "id": 13,
+            "label": "I.E. JUAN VELASCO ALVARADO"
+        },
+        {
+            "id": 14,
+            "label": "TELEFONICA DEL PERU SAC"
+        },
+        {
+            "id": 15,
+            "label": "MUNICIPALIDAD CENTRO POBLADO DE SANTA ROSA DE PITUMAMA"
+        },
+        {
+            "id": 16,
+            "label": "MINISTERIO DE EDUCACION"
+        },
+        {
+            "id": 17,
+            "label": "DIRECCION REGIONAL DE SALUD"
+        },
+        {
+            "id": 18,
+            "label": "CLAS PILLCO MARCA"
+        },
+        {
+            "id": 19,
+            "label": "COINVIA CONSULTORIA DE INVERSIONES VIABLES SOCIEDAD ANONIMA CERRADA"
+        },
+        {
+            "id": 20,
+            "label": "CONSORCIO CHB JUAN VELASCO"
+        },
+        {
+            "id": 21,
+            "label": "C & C PERUVIAN LEO EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA"
+        },
+        {
+            "id": 22,
+            "label": "MUNICIPALIDAD DEL CENTRO POBLADO DE ANDABAMBA"
+        },
+        {
+            "id": 23,
+            "label": "SERVICIOS MULTIPLES \"JIREH\""
+        },
+        {
+            "id": 24,
+            "label": "CONSORCIO AMTORO"
+        },
+        {
+            "id": 25,
+            "label": "SERVICIOS Y VENTAS EN GENERAL \"ELOIN\""
+        },
+        {
+            "id": 26,
+            "label": "SERVICIO DE SANEAMIENTO AMBIENTAL Y VENTA DE PRODUCTOS QUÍMICOS \"SHALOM\""
+        },
+        {
+            "id": 27,
+            "label": "INSTTUCION EDUCATIVA Nº 33421 LAS PALMERAS PILLCO MARCA"
+        },
+        {
+            "id": 28,
+            "label": "RCTEC E.I.R.L"
+        },
+        {
+            "id": 29,
+            "label": "INSTITUCIÓN EDUCATIVA PÚBLICA DE EDUCACIÓN BÁSICA REGULAR \"MARIO VARGAS LLOSA\" POTRACANCHA"
+        },
+        {
+            "id": 30,
+            "label": "MUNICIPALIDAD DEL CENTRO POBLADO CORAZON DE JESUS"
+        },
+        {
+            "id": 31,
+            "label": "INSTITUCION EDUCATIVA INICIAL 689 DE PITUMAMA - ROSAVERO"
+        },
+        {
+            "id": 32,
+            "label": "MINISTERIO DE AGRICULTURA Y RIEGO"
+        },
+        {
+            "id": 33,
+            "label": "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS"
+        },
+        {
+            "id": 34,
+            "label": "MINISTERIO DE LA MUJER Y POBLACIONES VULNERABLES"
+        },
+        {
+            "id": 35,
+            "label": "INSTITUTO VIAL PROVINCIAL DE HUANUCO | IVP-HUANUCO"
+        },
+        {
+            "id": 36,
+            "label": "INSTITUCION EDUCATIVA INICIAL Nº 692 DE PILLCO MARCA"
+        },
+        {
+            "id": 37,
+            "label": "ASOCIACON ECOLOGICA LEON DE HUANUCO"
+        },
+        {
+            "id": 38,
+            "label": "INSTITUCION EDUCATIVA INICIAL Nº 687 APROVIC"
+        },
+        {
+            "id": 39,
+            "label": "INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCION DE LA PROPIEDAD PRIVADA - INDECOPI"
+        },
+        {
+            "id": 40,
+            "label": "INSTITUTO DE DESARROLLO Y  MEDIO AMBIENTE"
+        },
+        {
+            "id": 41,
+            "label": "INSTITUCIÓN PÚBLICA MILITAR MARIANO IGNACIO PRADO DE HUANUCO"
+        },
+        {
+            "id": 42,
+            "label": "INSTITUCIÓN EDUCATIVA PUBLICA MILITAR"
+        },
+        {
+            "id": 43,
+            "label": "CENTRO DE ARBITRAJE DE LA CÁMARA DE COMERCIO E INDUSTRIAS DE HUANUCO"
+        },
+        {
+            "id": 44,
+            "label": "INSTITUCIÓN EDUCATIVA \"CARLOS NORIEGA JIMENEZ\""
+        },
+        {
+            "id": 45,
+            "label": "CENTRO DE EDUCACIÓN BÁSICA ALTERNATIVA (CEBA) JUAN VELASCO ALVARADO"
+        },
+        {
+            "id": 46,
+            "label": "INMOBILIARIA , CONTRATISTAS, PROVEEDORES, CONSULTORES Y EJECUTORES - ISHANK PERU"
+        },
+        {
+            "id": 47,
+            "label": "PROGRAMA TRABAJA PERU"
+        },
+        {
+            "id": 48,
+            "label": "MINISTERIO DE DESARROLLO E INCLUSIÓN SOCIAL - MIDIS"
+        },
+        {
+            "id": 49,
+            "label": "CONSORCIO MAGA"
+        },
+        {
+            "id": 50,
+            "label": "INVERSIONES EN TI JESUS S.A.C."
+        },
+        {
+            "id": 51,
+            "label": "MUNICIPALIDAD DISTRITAL DE TOMAYQUICHUA"
+        },
+        {
+            "id": 52,
+            "label": "MINISTERIO DEL AMBIENTE"
+        },
+        {
+            "id": 53,
+            "label": "VIGARZA SAC"
+        },
+        {
+            "id": 54,
+            "label": "CONTRALORÍA GENERAL DE LA REPÚBLICA"
+        },
+        {
+            "id": 55,
+            "label": "INSTITUTO NACIONAL PENITENCIARIO"
+        },
+        {
+            "id": 56,
+            "label": "CONSORCIO CATEDRAL"
+        },
+        {
+            "id": 57,
+            "label": "DIRECCIÓN REGIONAL DE COMERCIO EXTERIOR Y TURISMO"
+        },
+        {
+            "id": 58,
+            "label": "DIRECCIÓN REGIONAL DE COMERCIO EXTERIOR Y TURISMO"
+        },
+        {
+            "id": 59,
+            "label": "MUNICIPALIDAD DISTRITAL DE SAN PABLO DE PILLAO"
+        },
+        {
+            "id": 60,
+            "label": "DIRECCION REGIONAL DE EDUCACIÓN"
+        },
+        {
+            "id": 61,
+            "label": "J & V RESGUARDO SELVA SAC"
+        },
+        {
+            "id": 62,
+            "label": "MUNICIPALIDAD DISTRITAL DE CONCHAMARCA"
+        },
+        {
+            "id": 63,
+            "label": "BANCO DE LA NACION"
+        },
+        {
+            "id": 64,
+            "label": "REGISTRO NACIONAL DE IDENTIFACION Y ESTADO CIVIL"
+        },
+        {
+            "id": 65,
+            "label": "CONSTRUCTORA Y CONSULTORA SAGA Y ROZE INGENIEROS"
+        },
+        {
+            "id": 66,
+            "label": "CONSULTORIA Y EJECUCION DE PROYECTOS DE INGENIERIA CONSUCODE Nº C27022"
+        },
+        {
+            "id": 67,
+            "label": "INGENIERO MECANICO - MIGUEL EINER NUÑEZ ALMONACID"
+        },
+        {
+            "id": 68,
+            "label": "SUPERINTENDENTE NACIONAL DE LOS REGISTROS PÚBLICOS"
+        },
+        {
+            "id": 69,
+            "label": "EMPRESA CONSTRUCTORA HUARICHACA"
+        },
+        {
+            "id": 70,
+            "label": "MINISTERIO DEL INTERIOR"
+        },
+        {
+            "id": 71,
+            "label": "CONSULTORA Y CONSTRUCTORA CRAMER E.I.R.L."
+        },
+        {
+            "id": 72,
+            "label": "CORTE SUPERIOR DE JUSTICIA DE PASCO"
+        },
+        {
+            "id": 73,
+            "label": "DIRECCIÓN REGIONAL DE ENERGÍA, MINAS E HIDROCARBUROS"
+        },
+        {
+            "id": 74,
+            "label": "SENASA"
+        },
+        {
+            "id": 75,
+            "label": "ANBRISA CONSULTORES EIRL"
+        },
+        {
+            "id": 76,
+            "label": "MINISTERIO DE VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO"
+        },
+        {
+            "id": 77,
+            "label": "MINISTERIO DE LA PRODUCCIÓN"
+        },
+        {
+            "id": 78,
+            "label": "CONSORCIO SAN MARTIN"
+        },
+        {
+            "id": 79,
+            "label": "UNIDAD DE GESTION EDUCATIVA LOCAL - UGEL"
+        },
+        {
+            "id": 80,
+            "label": "BANDTEL"
+        },
+        {
+            "id": 81,
+            "label": "INSTITUCIÓN EDUCATIVA 33421 - LAS PALMERAS"
+        },
+        {
+            "id": 82,
+            "label": "MUNICIPALIDAD PROVINCIAL DANIEL ALCIDES CARRION"
+        },
+        {
+            "id": 83,
+            "label": "INSTITUCIÓN EDUCATIVA INTEGRADA Nro. 32271"
+        },
+        {
+            "id": 84,
+            "label": "DIRECCION DESCONCENTRADA DE CULTURA DE HUANUCO"
+        },
+        {
+            "id": 85,
+            "label": "FERRETERIA ALVA"
+        },
+        {
+            "id": 86,
+            "label": "FERRETERIA VARGAS EIRL"
+        },
+        {
+            "id": 87,
+            "label": "IMPRENTA & EDITORIAL PAGINA3 S.A.C."
+        },
+        {
+            "id": 88,
+            "label": "COLEGIO DE ARQUITECTOS DEL PERÚ"
+        },
+        {
+            "id": 89,
+            "label": "INSTITUCIÓN EDUCATIVA 180-PTM"
+        },
+        {
+            "id": 94,
+            "label": "INSTITUCIÓN EDUCATIVA PRIMARIA Nro. 32781 DE VICSACOCHA"
+        },
+        {
+            "id": 95,
+            "label": "JENCAS CONSULTORA Y CONSTRUCTORA E.I.R.L."
+        },
+        {
+            "id": 96,
+            "label": "JURADO  NACIONAL DE ELECCIONES"
+        },
+        {
+            "id": 97,
+            "label": "CAJA HUANCAYO"
+        },
+        {
+            "id": 98,
+            "label": "LIDERES SIN FRONTERAS"
+        },
+        {
+            "id": 99,
+            "label": "MINISTERIO DE TRANSPORTES Y COMUNICACIONES"
+        },
+        {
+            "id": 100,
+            "label": "MUNICIPALIDAD DEL CENTRO POBLADO DE COLPA BAJA"
+        },
+        {
+            "id": 101,
+            "label": "MINISTERIO DE DEFENSA"
+        },
+        {
+            "id": 102,
+            "label": "INSTITUCIÓN EDUCATIVA INICIAL Nro, 007 NUEVO MUNDO"
+        },
+        {
+            "id": 104,
+            "label": "INSTITUCIÓN EDUCATIVA INICIAL Nro, 007 NUEVO MUNDO"
+        },
+        {
+            "id": 106,
+            "label": "INSTITUCIÓN EDUCATIVA 247 \"LAS FLORES\""
+        },
+        {
+            "id": 109,
+            "label": "DIRECCIÓN REGIONAL DE TRABAJO  Y PROMOCIÓN DEL EMPLEO"
+        },
+        {
+            "id": 131,
+            "label": "COLEGIO DE INGENIEROS DE HUANUCO"
+        },
+        {
+            "id": 132,
+            "label": "C.I. AUGUSTO CARDICH LOARTE"
+        },
+        {
+            "id": 133,
+            "label": "ASOCIACIÓN PAZ Y ESPERANZA"
+        },
+        {
+            "id": 134,
+            "label": "INSTITUTO NACIONAL DE ESTADISTICA E INFORMATICA"
+        },
+        {
+            "id": 135,
+            "label": "EJERCITO DEL PERU"
+        },
+        {
+            "id": 136,
+            "label": "INVERIONES SEMMESA S.C.R.L"
+        },
+        {
+            "id": 137,
+            "label": "MUNICIPALIDAD DISTRITAL DE PAUCAR"
+        },
+        {
+            "id": 138,
+            "label": "AMERICA MOVIL PERU SAC"
+        },
+        {
+            "id": 139,
+            "label": "MULTISERVICIOS EDIHCA E.I.R.L."
+        },
+        {
+            "id": 140,
+            "label": "CC AMAZONAS S.A.C."
+        },
+        {
+            "id": 141,
+            "label": "PRESIDENCIA DEL CONSEJO DE MINISTROS"
+        },
+        {
+            "id": 142,
+            "label": "INSTITUCIÓN EDUCATIVA Nro. 32973 EL GRAN MAESTRO - PITUMAMA"
+        },
+        {
+            "id": 143,
+            "label": "CONSULTORIA CONSTRUCTORA Y MULTISERVICIOS"
+        },
+        {
+            "id": 144,
+            "label": "MUNICIPALIDAD DISTRITAL DE SAN MIGUEL DE CAURI"
+        },
+        {
+            "id": 145,
+            "label": "MULTISERVICIOS CAMVIL"
+        },
+        {
+            "id": 146,
+            "label": "INSTITUCION EDUCATIVA INICIAL No. 444"
+        },
+        {
+            "id": 147,
+            "label": "INSTITUCION EDUCATIVA INICIAL N° 690 - SAN GABRIEL"
+        },
+        {
+            "id": 148,
+            "label": "EPS SEDA HUANUCO"
+        },
+        {
+            "id": 149,
+            "label": "MUNICIPALIDAD DISTRITAL DE JOSE CRESPO Y CASTLLO"
+        },
+        {
+            "id": 150,
+            "label": "ORGANIZACION NO GUBERNAMENTAL DE DESARROLLO INTEGRADO LOS PUEBLOS ANDINO AMAZÓNICOS"
+        },
+        {
+            "id": 161,
+            "label": "CONSORCIO SAN MARTIN"
+        },
+        {
+            "id": 162,
+            "label": "CONSULTORES Y EJECUTORES L\"DAMARIS EMPRESA INDIVIDUAL"
+        },
+        {
+            "id": 163,
+            "label": "ORGANISMO SUPERVISOR DE LA INVERSION DE ENERGIA Y MINERIA - OSINERGMIN"
+        },
+        {
+            "id": 164,
+            "label": "CONSORCIO WALCKER SOBERON"
+        },
+        {
+            "id": 165,
+            "label": "DEFENSORIA DEL PUEBLO"
+        },
+        {
+            "id": 166,
+            "label": "BANCO CONTINENTAL"
+        },
+        {
+            "id": 167,
+            "label": "SUNAT"
+        },
+        {
+            "id": 168,
+            "label": "GM & FLORES CONTRATISTAS GENERAL E.I.R.L."
+        },
+        {
+            "id": 169,
+            "label": "SENCICO"
+        },
+        {
+            "id": 170,
+            "label": "MUNICIPALIDAD DE CENTRO POBLADO DE MARABAMBA"
+        },
+        {
+            "id": 171,
+            "label": "INSTITUCIÓN EDUCATIVA RAMIRO PRIALE PRIALE"
+        },
+        {
+            "id": 172,
+            "label": "MEGA COURIER & LOGISTICS SOCIEDAD ANONIMA CERRADO"
+        },
+        {
+            "id": 173,
+            "label": "GH & GR"
+        },
+        {
+            "id": 174,
+            "label": "CLINICA DENTAL ODONTO PEKES"
+        },
+        {
+            "id": 175,
+            "label": "MINISTERIO DE ECONOMÍA Y FINANZAS"
+        },
+        {
+            "id": 176,
+            "label": "IMPRESIONES Y MERCHANDISING - PIXEL"
+        },
+        {
+            "id": 177,
+            "label": "MOBOFI"
+        },
+        {
+            "id": 178,
+            "label": "COSORCIO COINPRO SAC & FAMEDI SAC"
+        },
+        {
+            "id": 179,
+            "label": "SUPERINTENDENCIA NACIONAL DE FISCALIZACIÓN LABORAL"
+        },
+        {
+            "id": 180,
+            "label": "COLEGIO  DE ABOGADOS"
+        },
+        {
+            "id": 181,
+            "label": "ORGANISMO DE EVALUACION Y FISCALIZACION AMBIENTAL - OEFA"
+        },
+        {
+            "id": 182,
+            "label": "VICTORIA APUESTAS DEPORTIVAS"
+        },
+        {
+            "id": 183,
+            "label": "CONSORCIO VIAL VIA CRUCIAL"
+        },
+        {
+            "id": 184,
+            "label": "CEREBAN"
+        },
+        {
+            "id": 185,
+            "label": "MUNICIPALIDAD DISTRITAL DE YARUMAYO"
+        },
+        {
+            "id": 186,
+            "label": "ESSALUD"
+        },
+        {
+            "id": 187,
+            "label": "CAJA RURAL DE AHORRO Y CREDITO S.A. - LOS ANDES"
+        },
+        {
+            "id": 188,
+            "label": "CONSORCIO 4 VIAS - HUANUCO"
+        },
+        {
+            "id": 189,
+            "label": "CENTRO DE CONCILIACIÓN EXTRAJUDICIAL IGUALDAD Y PAZ HUANUQUEÑA - CCEIP´H"
+        },
+        {
+            "id": 213,
+            "label": "BANCO DE CRÉDITO"
+        },
+        {
+            "id": 218,
+            "label": "SUPERINTENDENCIA NACIONAL DE SERVICIOS DE SANEAMIENTO"
+        },
+        {
+            "id": 219,
+            "label": "INVERSIONES IMPERIO SELVA"
+        },
+        {
+            "id": 220,
+            "label": "VIETTEL PERU SAC"
+        },
+        {
+            "id": 222,
+            "label": "PREFECTURA REGIONAL DE HUANUCO"
+        },
+        {
+            "id": 223,
+            "label": "COLEGIO REGIONAL DE OBSTETRAS HUANUCO"
+        },
+        {
+            "id": 224,
+            "label": "MULTISERVICIOS GENERALES \"AMMY\""
+        },
+        {
+            "id": 225,
+            "label": "GRUPO AFEMAR"
+        },
+        {
+            "id": 226,
+            "label": "MUNICIPALIDAD PROVINCIAL DE HUAMALIES"
+        },
+        {
+            "id": 227,
+            "label": "UNIVERSIDAD AGRARIA DE LA MOLINA"
+        },
+        {
+            "id": 228,
+            "label": "CAJA CUSCO"
+        },
+        {
+            "id": 229,
+            "label": "COOPERATIVA SAN FRANCISCO"
+        },
+        {
+            "id": 230,
+            "label": "IE. Nº 32271 DE ANDABAMBA"
+        },
+        {
+            "id": 231,
+            "label": "CONSULTORA Y CONSTRUCTORA GARCIA INGENIEROS E.I.R.L"
+        },
+        {
+            "id": 232,
+            "label": "MASTERCONS PERU S.R.L"
+        },
+        {
+            "id": 233,
+            "label": "COSTRUCTORA & CONSULTORA JCAROM E.I.R.L"
+        },
+        {
+            "id": 241,
+            "label": "SM MECATRONIC MECANICA Y TECNOLOGIA"
+        },
+        {
+            "id": 242,
+            "label": "MINISTERIO DE ENERGIA Y MINAS"
+        },
+        {
+            "id": 243,
+            "label": "INSTITUCION EDUCATIVA ANDRES FERNANDEZ GARRIDO"
+        },
+        {
+            "id": 244,
+            "label": "PICON S.A.C"
+        },
+        {
+            "id": 245,
+            "label": "CENTRO DE CONCILIACION EXTRAJUDICIAL \"STHETIZZ\""
+        },
+        {
+            "id": 246,
+            "label": "PRODUCTOS QUIMICOS MEDICOS SAC"
+        },
+        {
+            "id": 247,
+            "label": "ASOCIACIÓN DE AFP"
+        },
+        {
+            "id": 248,
+            "label": "MUNICIPALIDAD DISTRITAL DE SAN FRANCISCO DE CAYRAN"
+        },
+        {
+            "id": 249,
+            "label": "GERENCIA REGIONAL DE RECURSOS NATURALES Y GESTION AMBIENTAL"
+        },
+        {
+            "id": 252,
+            "label": "INSTITUCION EDUCATIVA 32036 - PUMACAN"
+        },
+        {
+            "id": 253,
+            "label": "INSTITUCION EDUCATIVA GUARDIA CIVIL"
+        },
+        {
+            "id": 254,
+            "label": "I.E. INICIAL Nº 688 ARCORRAGRA"
+        },
+        {
+            "id": 255,
+            "label": "SERVICIOS DE LIMPIEZA SERLIM H.C."
+        },
+        {
+            "id": 256,
+            "label": "INVERSIONES FIGUEROA R."
+        },
+        {
+            "id": 257,
+            "label": "CONSULTORA Y CONSTRUCTORA GRUPO 3A SCRL"
+        },
+        {
+            "id": 258,
+            "label": "UNIVERSIDAD NACIONAL DANIEL ALOMIA ROBLES"
+        },
+        {
+            "id": 259,
+            "label": "DIRECCIÓN REGIONAL DE EDUCACIÓN DE HUÁNUCO"
+        },
+        {
+            "id": 260,
+            "label": "MEDIO AMBIENTE AGUA & SIG EIRL"
+        },
+        {
+            "id": 261,
+            "label": "MULTISERVICIOS LUZ"
+        },
+        {
+            "id": 262,
+            "label": "GEOCONTRUCTOR"
+        },
+        {
+            "id": 271,
+            "label": "FUERO MILITAR POLICIAL"
+        },
+        {
+            "id": 272,
+            "label": "I. E. P \"SAN ISIDRO\""
+        },
+        {
+            "id": 273,
+            "label": "COLEGIO DE CONTADORES PÚBLICOS DE HUÁNUCO"
+        },
+        {
+            "id": 274,
+            "label": "MESA DE CONCERTACIÓN"
+        },
+        {
+            "id": 282,
+            "label": "GESTIONES PERU"
+        },
+        {
+            "id": 283,
+            "label": "CONGRESO DE LA REPÚBLICA"
+        },
+        {
+            "id": 284,
+            "label": "OTRAS ENTIDADES"
+        },
+        {
+            "id": 288,
+            "label": "CAJA MAYNAS"
+        },
+        {
+            "id": 301,
+            "label": "CREDISCOTIA"
+        },
+        {
+            "id": 302,
+            "label": "MINISTERIO DE CULTURA"
+        },
+        {
+            "id": 303,
+            "label": "MUNICIPALIDAD PROVINCIAL DE YAROWILCA"
+        },
+        {
+            "id": 304,
+            "label": "ASOCIACIÓN DE DAMAS HUANUQUEÑAS"
+        },
+        {
+            "id": 305,
+            "label": "MOTA - ENGIL"
+        },
+        {
+            "id": 306,
+            "label": "FEDERACIÓN NACIONAL DE OBREROS MUNICIPALES DEL PERU"
+        },
+        {
+            "id": 307,
+            "label": "GRUPO B&E COMPANY SAC-HCO"
+        },
+        {
+            "id": 308,
+            "label": "ONPE"
+        },
+        {
+            "id": 309,
+            "label": "T- CAPACITA"
+        },
+        {
+            "id": 310,
+            "label": "MINISTERIO DE ENERGIA Y MINAS"
+        },
+        {
+            "id": 311,
+            "label": "MUNICIPALIDAD PROVINCIAL DE LEONCIO PRADO"
+        },
+        {
+            "id": 312,
+            "label": "MULTISERVICIOS FALCON"
+        },
+        {
+            "id": 313,
+            "label": "MUNICIPALIDAD DE JESUS MARÍA"
+        },
+        {
+            "id": 314,
+            "label": "IGLESIA DE DIOS DEL PERÚ"
+        },
+        {
+            "id": 315,
+            "label": "MUNICIPALIDAD DISTRITAL DE TUPAC"
+        },
+        {
+            "id": 316,
+            "label": "INTERBANK"
+        },
+        {
+            "id": 317,
+            "label": "GRIFO PRIMAX"
+        },
+        {
+            "id": 318,
+            "label": "SCOTIABANK"
+        },
+        {
+            "id": 319,
+            "label": "INSTITUTO GEOLOGICO, MINERO Y METALUTGICO - INGEMMENT"
+        },
+        {
+            "id": 320,
+            "label": "MUNICIPALIDAD METROPOLITANA DE LIMA"
+        },
+        {
+            "id": 321,
+            "label": "RED NACIONAL DE PROMOCIÓN DE LA MUJER"
+        },
+        {
+            "id": 322,
+            "label": "I.E.I N° 842  - COCHAPATA"
+        },
+        {
+            "id": 323,
+            "label": "I.E.P CARLOS NORIEGA JIMENEZ"
+        },
+        {
+            "id": 324,
+            "label": "MUNICIPALIDAD DISTRITAL DE MONZÓN"
+        },
+        {
+            "id": 325,
+            "label": "MUNICIPALIDAD DE VILLA EL SLAVADOR"
+        },
+        {
+            "id": 326,
+            "label": "MUNICIPALIDAD DE CHINCHAO"
+        },
+        {
+            "id": 327,
+            "label": "CAJA AREQUIPA"
+        },
+        {
+            "id": 328,
+            "label": "COOPERATIVA DE AHORROS Y CRÉDITO SAN SALVADOR DE MILPO"
+        },
+        {
+            "id": 329,
+            "label": "CORREDOR DE SEGUROS"
+        },
+        {
+            "id": 330,
+            "label": "I.E.I,P JAVIER PULGAR VIDAL"
+        },
+        {
+            "id": 331,
+            "label": "MULTISERVICIOS FORCH"
+        },
+        {
+            "id": 332,
+            "label": "OFICINA DE NORMALIZACIÓN PREVIOCIONAL DEL PERÚ"
+        },
+        {
+            "id": 333,
+            "label": "I..E.I N° 689 - ROSABERO"
+        },
+        {
+            "id": 334,
+            "label": "I.E.I. N° 689 - ROSAVERO"
+        },
+        {
+            "id": 335,
+            "label": "I.E.E. N° 403 ISABEL LA CATOLICA"
+        },
+        {
+            "id": 336,
+            "label": "GRIFO RAULITO   - HUÁNUCO"
+        },
+        {
+            "id": 337,
+            "label": "I.E.I STEVE JOBS COLLEGUE"
+        },
+        {
+            "id": 338,
+            "label": "FERRETERIA DERIAN E.I.R.L"
+        },
+        {
+            "id": 339,
+            "label": "FRACTALCONSE S.CR.L"
+        },
+        {
+            "id": 340,
+            "label": "INVERSIONES FERRETERA CASTRO E.I.R.L"
+        },
+        {
+            "id": 341,
+            "label": "I.E. N° 231 MI PEQUEÑO MUNDO - YANAG PILLCO MARCA"
+        },
+        {
+            "id": 342,
+            "label": "CORPORACIÓN JANAMPA"
+        },
+        {
+            "id": 343,
+            "label": "SEGURO INTEGRAL DE SALUD (SIS)"
+        },
+        {
+            "id": 344,
+            "label": "MINISTERIO SALUD RED SALUD HUANUCO"
+        },
+        {
+            "id": 345,
+            "label": "ORGANISMO DE FORMALIZACIÓN DE LA PROPIEDAD (COFOPRI)"
+        },
+        {
+            "id": 346,
+            "label": "INSTITUCION EDUCATIVA INICIAL N° 180 SANTA ROSA PITUMAMA"
+        },
+        {
+            "id": 347,
+            "label": "INADEX \"BELEN\" S.C.R.L"
+        },
+        {
+            "id": 348,
+            "label": "MINISTERIO DE DESARROLLO AGRARIO Y RIEGO"
+        },
+        {
+            "id": 349,
+            "label": "CLINIVET HUANUCO S.R.L"
+        },
+        {
+            "id": 350,
+            "label": "CLUB LAWN TENNIS"
+        },
+        {
+            "id": 354,
+            "label": "SUPERINTENDENCIA DE BANCA, SEGUROS Y AFP"
+        },
+        {
+            "id": 355,
+            "label": "MIDIS"
+        },
+        {
+            "id": 356,
+            "label": "GROUP J-J INVERSIONES"
+        },
+        {
+            "id": 357,
+            "label": "CONSURGE INGENIERIA Y AFINES S.C.R.L"
+        },
+        {
+            "id": 358,
+            "label": "ASOCIACIÓN DE MUNICIPALIDADES DISTRITALES DEL PERÚ \"AMUDIP\""
+        },
+        {
+            "id": 359,
+            "label": "NOTARIA LASO"
+        },
+        {
+            "id": 363,
+            "label": "NOTARIA MIGUEL ESPINOZA FIGUEROA"
+        },
+        {
+            "id": 364,
+            "label": "CONSORCIO  CCORSAC"
+        },
+        {
+            "id": 365,
+            "label": "CONTRATISTAS GENERALES F&M CORP"
+        },
+        {
+            "id": 366,
+            "label": "MINISTERIO DE TRABAJO Y PROMOCIÓN DEL EMPLEO"
+        },
+        {
+            "id": 367,
+            "label": "CONSORCIO INGENIERIA Y CONSTRUCCIÓN."
+        },
+        {
+            "id": 368,
+            "label": "OFICINA DESCONCENTRADA DE SERVICIOS HUÁNUCO"
+        },
+        {
+            "id": 369,
+            "label": "CONSULTING CENTER S&Q S.C.R.L"
+        },
+        {
+            "id": 370,
+            "label": "I.E INICIAL N° 007 NUEVO AMANECER VICHAYCOTO"
+        },
+        {
+            "id": 371,
+            "label": "PRESTADORA DE SERVICIOS DE SALUD PILLCO E.I.R.L"
+        },
+        {
+            "id": 372,
+            "label": "CUERPO GENERAL DE BOMBEROS VOLUNTARIOS DEL PERÚ"
+        },
+        {
+            "id": 373,
+            "label": "MINISTERIO ENERGIA Y MINAS"
+        },
+        {
+            "id": 374,
+            "label": "PRIMA AFP - GRUPO CREDITO"
+        },
+        {
+            "id": 375,
+            "label": "CENTURY SUN INVERSIONES S.R.L"
+        },
+        {
+            "id": 376,
+            "label": "SERVICE EXPRE4SS J Y F"
+        },
+        {
+            "id": 377,
+            "label": "ORGANISMO SUPERVISOR DE CONTRATACIONES DEL ESTADO - OSCE"
+        },
+        {
+            "id": 378,
+            "label": "DHAKA SERVICES S.A.C"
+        },
+        {
+            "id": 387,
+            "label": "GROUP COMPANY CONSERVIS PERU S.C.R.L"
+        },
+        {
+            "id": 388,
+            "label": "ENTEL PERÚ S.A"
+        },
+        {
+            "id": 389,
+            "label": "FORTALEZA S.R.L"
+        },
+        {
+            "id": 390,
+            "label": "INCALAB DEL PERU S.A.C"
+        },
+        {
+            "id": 391,
+            "label": "UNIO PER DE RADIO Y TV SRL"
+        },
+        {
+            "id": 395,
+            "label": "NOTARIO DOMINIQUE PALACIOS"
+        },
+        {
+            "id": 396,
+            "label": "UK VIVENTIAL HUANUCO - FRANQUISIA"
+        },
+        {
+            "id": 397,
+            "label": "CORTE SUPERIOR DE JUSTICIA DE LIMA SUR"
+        },
+        {
+            "id": 398,
+            "label": "GRUPO NALEX S.C.R.L"
+        },
+        {
+            "id": 399,
+            "label": "D,LIMBO E.I.R.L"
+        },
+        {
+            "id": 400,
+            "label": "MUNICIPALIDAD DE SAN BORJA"
+        },
+        {
+            "id": 401,
+            "label": "JARDINES DE LA ESPERANZA"
+        },
+        {
+            "id": 402,
+            "label": "CORPORACION IMPORTADORA ROSALES"
+        },
+        {
+            "id": 403,
+            "label": "MUNICIPALIDAD DISTRITAL DE YACUS"
+        },
+        {
+            "id": 404,
+            "label": "I.E. NUESTRA SEÑORA DE LAS MERCEDES"
+        },
+        {
+            "id": 405,
+            "label": "GRUPO ACADÉMICO CONEXIONES ARCHIVO"
+        },
+        {
+            "id": 406,
+            "label": "MUNICIPALIDAD DISTRITAL DE SAN PEDRO DE CHAULAN"
+        },
+        {
+            "id": 407,
+            "label": "CENTRO TOXICOLÓGICO S.A.C - CETOX"
+        },
+        {
+            "id": 408,
+            "label": "ASOCIACIÓN DE MUNICIPALIDADES DEL PERÚ - AMPE"
+        },
+        {
+            "id": 409,
+            "label": "MINISTERIO DE SALUD"
+        },
+        {
+            "id": 410,
+            "label": "TRIBUNAL CONSTITUCIONAL"
+        },
+        {
+            "id": 411,
+            "label": "INSTITUCION EDUCATIVA INICIAL N°539 UNGUYMARAN"
+        },
+        {
+            "id": 412,
+            "label": "DIRECCION GENERAL CONTRA LA VIOLENCIA DE GENERO"
+        },
+        {
+            "id": 413,
+            "label": "ASOCIACIÓN PERUANA DE AUTORES Y COMPOSITORES"
+        },
+        {
+            "id": 414,
+            "label": "MUNICIPALIDAD DISTRITAL DE MARGOS"
+        },
+        {
+            "id": 418,
+            "label": "GOB HCO"
+        },
+        {
+            "id": 419,
+            "label": "CAMBIO CLIMÁTICO Y POLÍTICAS AMBIENTALES"
+        },
+        {
+            "id": 420,
+            "label": "GOBIERNO REGIONAL DE PASCO"
+        },
+        {
+            "id": 421,
+            "label": "OPTICA TECNOLOGIES S.A.C"
+        },
+        {
+            "id": 422,
+            "label": "SERVICENTRO AVILA EIRL"
+        },
+        {
+            "id": 423,
+            "label": "PARROQUIA \"SEÑOR LA DIVINA MISERICORDIA\""
+        },
+        {
+            "id": 424,
+            "label": "MUNICIPALIDAD PROVINCIAL DE AZÁNGARO"
+        },
+        {
+            "id": 425,
+            "label": "CORTE SUPRIOR DE JUSTICIA DE TACNA"
+        },
+        {
+            "id": 426,
+            "label": "DIVISION DE INVESTIGACION DE LAVADO DE ACTIVOS PDC"
+        },
+        {
+            "id": 427,
+            "label": "DRS"
+        },
+        {
+            "id": 428,
+            "label": "CAMARA DE COMERCIO E INDUSTRIAS DE HUANUCO"
+        },
+        {
+            "id": 429,
+            "label": "MUNICIPALIDAD DISTRITAL DE SANTA ANA DE TUSI"
+        },
+        {
+            "id": 433,
+            "label": "FISCALIA PROVINCIAL ESPECIALIZADA EN DELITOS DE TRATA DE PERSONAS DE HUANUCO"
+        },
+        {
+            "id": 434,
+            "label": "INSTITUTO DE EDUCACIÓN SUPERIOR JUAN BOSCO DE HUÁNUCO"
+        },
+        {
+            "id": 435,
+            "label": "MUNICIPALIDAD PROVINCIAL DE AMBO"
+        },
+        {
+            "id": 436,
+            "label": "COLEGIO DE LICENCIADOS DE ADMNISTRACION"
+        },
+        {
+            "id": 437,
+            "label": "AUTORIDAD NACIONAL DEL SERVICIO CIVIL"
+        },
+        {
+            "id": 438,
+            "label": "ONG JUNTOS POR EL VIVIR"
+        },
+        {
+            "id": 439,
+            "label": "RICHARD'SON"
+        },
+        {
+            "id": 440,
+            "label": "INMOVILIARIA N&Y"
+        },
+        {
+            "id": 441,
+            "label": "GRUPO LAEL"
+        },
+        {
+            "id": 442,
+            "label": "DISTRIBUIDORA E IMPORTADORA FERRETERA SIMON EIRL"
+        },
+        {
+            "id": 443,
+            "label": "CONSTRUCTORA MOAL PERU SAC"
+        },
+        {
+            "id": 444,
+            "label": "KHAPAJG CONTRATISTAS GENERALES SAC"
+        },
+        {
+            "id": 448,
+            "label": "SERVICIOS MULTIPLES VAMME SCRL"
+        },
+        {
+            "id": 449,
+            "label": "I.E.I N°247 \" LAS FLORES\""
+        },
+        {
+            "id": 450,
+            "label": "EMPRESA DE TRANSPORTES C&A ANDINITO EXPRESS EIRL"
+        },
+        {
+            "id": 451,
+            "label": "PERUHUANUCO SAC"
+        },
+        {
+            "id": 452,
+            "label": "IMAGEN CORPORATIVA R&R S.R.L"
+        },
+        {
+            "id": 453,
+            "label": "SHAUYA MOTORS EIRL"
+        },
+        {
+            "id": 454,
+            "label": "C&CA CONSULTORES Y EJECUTORES DE OBRAS SAC"
+        },
+        {
+            "id": 455,
+            "label": "AUTORIDAD NACIONAL DEL AGUA"
+        },
+        {
+            "id": 456,
+            "label": "MIJA SOLUTIONS CENTER EIRL"
+        },
+        {
+            "id": 457,
+            "label": "MARPE SRL"
+        },
+        {
+            "id": 458,
+            "label": "MULTISERVICIOS AYLLU EIRL"
+        },
+        {
+            "id": 459,
+            "label": "CORPORACION ATOMIC C&J SAC"
+        },
+        {
+            "id": 460,
+            "label": "CONSTRUCTORA Y CONSULTORA HUACACHINO E.I.R.L."
+        },
+        {
+            "id": 468,
+            "label": "IMPRENTA & EDITORIAL PAGINA3 S.A.C"
+        },
+        {
+            "id": 469,
+            "label": "OXCORP E.I.R.L"
+        },
+        {
+            "id": 470,
+            "label": "N INDUSTRIAL E.I.R.L."
+        },
+        {
+            "id": 471,
+            "label": "GRUPO NIFER SOCIEDAD ANONIMA CERRADA"
+        },
+        {
+            "id": 472,
+            "label": "ELIVAT S.A.C.S"
+        },
+        {
+            "id": 473,
+            "label": "CONSTRUCTORA Y CONSULTORES FALIM E.I.R.L."
+        },
+        {
+            "id": 474,
+            "label": "PITAURUS INVERSIONES EIRL"
+        },
+        {
+            "id": 475,
+            "label": "GOBIERNO REGIONAL SAN MARTIN"
+        },
+        {
+            "id": 476,
+            "label": "SERVICIOS MULTIPLES EL GOLFO"
+        },
+        {
+            "id": 477,
+            "label": "MUNICIPALIDAD DISTRITAL DE UMARI"
+        },
+        {
+            "id": 478,
+            "label": "MUNICIPALIDAD DEL CENTRO POBLADO LLICUA"
+        },
+        {
+            "id": 482,
+            "label": "SG SSOMAC INGENIEROS S.R.L."
+        },
+        {
+            "id": 483,
+            "label": "MUNICIPALIDAD DISTRITAL DE SANTA MARIA DEL VALLE"
+        },
+        {
+            "id": 484,
+            "label": "MUNICIPALIDAD PROVINCIAL DE LAURICOCHA"
+        },
+        {
+            "id": 485,
+            "label": "I.E CESAR VALLEJO -PAUCARBAMBA"
+        },
+        {
+            "id": 486,
+            "label": "SABIO NACIONAL ANTUNEZ  DE MAYOLO"
+        },
+        {
+            "id": 487,
+            "label": "CORPORACION STRUVE INGENIEROS SAC"
+        },
+        {
+            "id": 488,
+            "label": "CORPORACION GRUPO BENDEZU SAC"
+        },
+        {
+            "id": 489,
+            "label": "REAL PLAZA SRL"
+        },
+        {
+            "id": 490,
+            "label": "CORMAN S.A.C"
+        },
+        {
+            "id": 491,
+            "label": "CONSULTORES & CONTRATISTAS S.A.C"
+        },
+        {
+            "id": 492,
+            "label": "COMERCIALIZADORA Y CONSTRUCTORA GBQ - PUÑOS SAC"
+        },
+        {
+            "id": 493,
+            "label": "CONSORCIO KOTOSH"
+        },
+        {
+            "id": 501,
+            "label": "CAYACO CONTRATISTA E INVERSIONES GENERALES E.I.R.L"
+        },
+        {
+            "id": 508,
+            "label": "CENTRO DE CAPACITACION TECNICA CECATEC - GRUPO MINERO EMPRESA"
+        },
+        {
+            "id": 509,
+            "label": "MOBILIO E.I.R.L."
+        },
+        {
+            "id": 510,
+            "label": "INGENIERIA Y CONSULTORIA CALIXTO E.I.R.L."
+        },
+        {
+            "id": 511,
+            "label": "FERRETERIA ANGIE"
+        },
+        {
+            "id": 512,
+            "label": "SAFIRO CONTRATISTAS E INVERSIONES GENERALES EIRL"
+        },
+        {
+            "id": 513,
+            "label": "DIARIO EL SIGLO"
+        },
+        {
+            "id": 514,
+            "label": "INGENIERIA INVERSIONES SPC"
+        },
+        {
+            "id": 515,
+            "label": "TJ PROYECTA Y CONSTRUYE SAC"
+        },
+        {
+            "id": 516,
+            "label": "Rasos EIRL"
+        },
+        {
+            "id": 520,
+            "label": "CONSORCIO VIRGEN DEL CARMEN - UNHEVAL"
+        },
+        {
+            "id": 521,
+            "label": "MULTISERVICIOS MOVIHOGAR EIRL"
+        },
+        {
+            "id": 522,
+            "label": "BITEL"
+        },
+        {
+            "id": 523,
+            "label": "CISMINIG FACTORY EIRL"
+        },
+        {
+            "id": 524,
+            "label": "MINISTERIO DE COMERCIO EXTERIOR Y TURISMO"
+        },
+        {
+            "id": 525,
+            "label": "CONSORCIO C&A EMPERADOR"
+        },
+        {
+            "id": 526,
+            "label": "INSTITUCION EDUCATIVA PARTICULAR ADVANCED SCHOOL PERU EIRL"
+        },
+        {
+            "id": 527,
+            "label": "COMITE GREMIAL DE EMPRESAS EXTRACTORAS DE MATERIALES NO METÁLICOS DE hUÁNUCO"
+        },
+        {
+            "id": 528,
+            "label": "HIAR CONSTRUCCION & SERVICIOS GENERALES EIRL"
+        },
+        {
+            "id": 529,
+            "label": "ASOC NACIONAL DE PERIODISTAS DEL PERU"
+        },
+        {
+            "id": 530,
+            "label": "ESTRATEGIA COMERCIAL SAC"
+        },
+        {
+            "id": 534,
+            "label": "CONSULTORES Y EJECUTORES JAVIER BP EIRL"
+        },
+        {
+            "id": 535,
+            "label": "CONSTRUCTORA Y CONSULTORA YURI KAN SCRL"
+        },
+        {
+            "id": 536,
+            "label": "COOP. AHOR. Y CRED. TRAB. VOLCAN LTDA.392"
+        },
+        {
+            "id": 537,
+            "label": "WAPRO E.I.R.L."
+        },
+        {
+            "id": 538,
+            "label": "CONSULTORA & CONSTRUCTORA CHEMSA SAC"
+        },
+        {
+            "id": 539,
+            "label": "YSG CONTRATISTAS Y CONSULTORES S.A.C"
+        },
+        {
+            "id": 540,
+            "label": "WELFARE AND DEVELOPMENT CONSULTING PERÚ SAC"
+        },
+        {
+            "id": 541,
+            "label": "ABAD´S E.I.R.L."
+        },
+        {
+            "id": 542,
+            "label": "INGENIEROS A & J EMPRESARIOS JIREH SAC"
+        },
+        {
+            "id": 543,
+            "label": "SUCAMEC"
+        },
+        {
+            "id": 544,
+            "label": "CLINICA DE CORTA ESTANCIA ROCA EIRL"
+        },
+        {
+            "id": 545,
+            "label": "TRANSPORTES HUALLAGA TOURS SRL"
+        },
+        {
+            "id": 546,
+            "label": "AMERICA MOVIL PERU S.A.C."
+        },
+        {
+            "id": 547,
+            "label": "MUNICIPALIDAD DISTRITAL DE CASTILLO GRANDE"
+        },
+        {
+            "id": 548,
+            "label": "GOBIERNO REGIONAL JUNIN"
+        },
+        {
+            "id": 549,
+            "label": "MUNICIPALIDAD DELEGADA DEL CENTRO POBLADO SANTO DOMINGO DE NAUYAN"
+        },
+        {
+            "id": 550,
+            "label": "CONSORCIO SEÑOR DE EXALTACION"
+        },
+        {
+            "id": 551,
+            "label": "UNIVERSIDAD CATOLICA DE TRUJILLO"
+        },
+        {
+            "id": 569,
+            "label": "CONSTRUCTORA Y CONSULTORA N Y C AEQ. E. ING. SAC."
+        },
+        {
+            "id": 570,
+            "label": "MIDIS"
+        },
+        {
+            "id": 571,
+            "label": "MUNICIPALIDAD DISTRITAL DE VILCABAMBA"
+        },
+        {
+            "id": 575,
+            "label": "INSTITUCION EDUCATIVA INICIAL N° 687 APROVICA-PILLCO MARCA"
+        },
+        {
+            "id": 589,
+            "label": "MUNICIPALIDAD DE CHURUBAMBA"
+        },
+        {
+            "id": 590,
+            "label": "MILUG"
+        },
+        {
+            "id": 628,
+            "label": "MIMAF PERU EIRL"
+        },
+        {
+            "id": 629,
+            "label": "TITAN SEGURITY S.A.C."
+        },
+        {
+            "id": 630,
+            "label": "UNIVERSIDAD NACIONAL AGRARIA DE LA SELVA - TINGO MARIA"
+        },
+        {
+            "id": 631,
+            "label": "WARE CORPORATION"
+        },
+        {
+            "id": 632,
+            "label": "INVERSIONES EL ANCASHINO S.A.C."
+        },
+        {
+            "id": 633,
+            "label": "C & CA Consultores y ejecutores de obras S.A.C."
+        },
+        {
+            "id": 646,
+            "label": "LIHON CORPORATION"
+        },
+        {
+            "id": 647,
+            "label": "MUNICIPALIDAD DISTRITAL MARIANO DÁMASO BERAÚN"
+        },
+        {
+            "id": 648,
+            "label": "GRUPO FOROS Y CONVENCIONES PERU S.A.C.S"
+        },
+        {
+            "id": 649,
+            "label": "ASOCIACION CIVILO EDUCATIVA Y POLITICA TELENTUM PERU"
+        },
+        {
+            "id": 650,
+            "label": "PARLAMENTO ANDINO"
+        },
+        {
+            "id": 651,
+            "label": "MUNICIPALIDAD DEL CENTRO POBLADO DE SAN PEDRO DE RACCHA"
+        },
+        {
+            "id": 652,
+            "label": "LOCALES AT SAC"
+        },
+        {
+            "id": 653,
+            "label": "SITES DEL PERU S.A.C."
+        },
+        {
+            "id": 654,
+            "label": "GERENTE GENERAL"
+        },
+        {
+            "id": 655,
+            "label": "MUNICIPALIDAD DISTRITAL DE YARINACOCHA"
+        },
+        {
+            "id": 656,
+            "label": "HOTEL SPRING"
+        },
+        {
+            "id": 657,
+            "label": "CAJA MAYNAS"
+        },
+        {
+            "id": 658,
+            "label": "PESCO PERU S.A.C."
+        },
+        {
+            "id": 659,
+            "label": "DISTRILUZ"
+        },
+        {
+            "id": 660,
+            "label": "IREPAZ"
+        },
+        {
+            "id": 661,
+            "label": "MEGA MUNDO S.A.C."
+        },
+        {
+            "id": 662,
+            "label": "RED DE MUNICIPALIDADES URBANAS Y RURALES DEL PERU - REMURPE"
+        },
+        {
+            "id": 663,
+            "label": "MUNICIPALIDADDE JACAS CHICO"
+        },
+        {
+            "id": 664,
+            "label": "MUNICIPALIDAD DISTRITAL DE JACAS CHICO"
+        },
+        {
+            "id": 665,
+            "label": "BRAVO & BUENO SOCIEDAD ANOMINA CERRADA"
+        },
+        {
+            "id": 666,
+            "label": "PROCURADURIA GENERAL DEL ESTADO"
+        },
+        {
+            "id": 669,
+            "label": "MUNICIPALIDAD DISTRITAL DE LA MORADA"
+        },
+        {
+            "id": 670,
+            "label": "INSTITUTO DE EDUCACION SUPERIOR ISABEL LA CATOLICA"
+        },
+        {
+            "id": 671,
+            "label": "MUNICIPALIDAD PROVINCIAL DE SAN M ARTIN"
+        },
+        {
+            "id": 672,
+            "label": "MUNICIPALIDAD DISTRITAL EL TAMBO"
+        },
+        {
+            "id": 673,
+            "label": "ORGANIZACIONES SISTER CITIES AMERICA - IDEAS PERU"
+        },
+        {
+            "id": 674,
+            "label": "INSTITUCION EDUCATIVA PRIVADA \"LAS AMERICAS\""
+        },
+        {
+            "id": 675,
+            "label": "I.E.I. GABIREL AGUILAR NALVARTE- SAN FRANCISCO DE CAYRAN"
+        },
+        {
+            "id": 676,
+            "label": "DIRECCION REGIONAL DE AGRICULTURA"
+        },
+        {
+            "id": 677,
+            "label": "SENATI"
+        },
+        {
+            "id": 678,
+            "label": "EMPRESA DE TRANSPORTES TURISMO LAS BRISAS"
+        },
+        {
+            "id": 679,
+            "label": "GRUPO N & J 707 EXPRESS E.I.R.L."
+        },
+        {
+            "id": 684,
+            "label": "NOTARIA"
+        },
+        {
+            "id": 696,
+            "label": "MUNICIPALIDAD  PROVINCIAL DE TOCACHE"
+        },
+        {
+            "id": 707,
+            "label": "INSTITUCION EDUCATIVA INICIAL NRO. 275 - CANCHARAPAN"
+        },
+        {
+            "id": 708,
+            "label": "JGM CITV VERIFICA S.A.C."
+        },
+        {
+            "id": 709,
+            "label": "ALLY MICUY"
+        },
+        {
+            "id": 710,
+            "label": "ZL INVERSIONES"
+        },
+        {
+            "id": 728,
+            "label": "MUNICIPALIDAD DE MAGDALENA DEL MAR"
+        },
+        {
+            "id": 737,
+            "label": "ASOCIACION PERUANA DE AUTORES Y COMPOSITORES - HUANUCO"
+        },
+        {
+            "id": 741,
+            "label": "UNIVERSIDAD DE LIMA"
+        },
+        {
+            "id": 742,
+            "label": "4º JUZGADO INV. PREPARATORIA - DELITOS AD. T"
+        },
+        {
+            "id": 743,
+            "label": "COMPAÑIA EMBOTELLADORA, LA UNION SOCIEDAD ANONIMA"
+        },
+        {
+            "id": 744,
+            "label": "BANCO DE COMERCIO"
+        },
+        {
+            "id": 745,
+            "label": "COMISION DE VIVIENDA , CONSTRUCCION Y SANEAMIENTO"
+        },
+        {
+            "id": 746,
+            "label": "COORPORACION PERU"
+        },
+        {
+            "id": 754,
+            "label": "INSTITUCION EDUCATIVA PRIVADA \"ALESSANDRO VOLTA\""
+        },
+        {
+            "id": 755,
+            "label": "MINISTERIO DE DESARROLLO AGRARIO Y RIEGO"
+        },
+        {
+            "id": 756,
+            "label": "DIRECCION GENERAL DE GESTION FISCAL DE LOS RECURSOS HUMANOS"
+        },
+        {
+            "id": 757,
+            "label": "CENTRO PROMOTOR DE CRECIMIENTO Y DESARROLLO SOCIAL"
+        },
+        {
+            "id": 758,
+            "label": "IMAX INGENIERIA MAXIMA E.I.R.L."
+        },
+        {
+            "id": 759,
+            "label": "FEDERACION PERUANA DE VOLEIBOL"
+        },
+        {
+            "id": 760,
+            "label": "CORTE SUPERIOR DE JUSTICIA LIMA"
+        },
+        {
+            "id": 761,
+            "label": "IMPORT & NEGOCIACIONES KORI SOCIEDAD ANONIMA CERRADA"
+        },
+        {
+            "id": 762,
+            "label": "CONSORCIO MDIVET"
+        },
+        {
+            "id": 768,
+            "label": "NEGOCIOS E INVERSIONES INMOVILIARIAS B Y P  EIRL"
+        },
+        {
+            "id": 769,
+            "label": "DIOCESIS DE HUANUCO"
+        },
+        {
+            "id": 770,
+            "label": "AGENCIA MASS PUBLICIDAD S.A.C."
+        },
+        {
+            "id": 771,
+            "label": "S & V PROTECCION Y RESGUARDO S.A.C."
+        },
+        {
+            "id": 772,
+            "label": "EMPRESA DE SERVICIOS EDUCATIVOS MA PILLCO MARCA"
+        },
+        {
+            "id": 773,
+            "label": "ONG - INMACULADA VIRGEN DE LA PUERTA ROJA"
+        },
+        {
+            "id": 774,
+            "label": "CONTRATISTA Y CONSULTORES HURSEQ"
+        },
+        {
+            "id": 777,
+            "label": "INSTITUTO GEOLOGICO MINERO Y METALURGICO -INGEMMET"
+        },
+        {
+            "id": 778,
+            "label": "HONORABLE MUNICIPALIDAD PROVINCIAL DE PASCO"
+        },
+        {
+            "id": 781,
+            "label": "OFICINA GENERAL DE PLANEAMIENTO Y PRESUPUESTO"
+        },
+        {
+            "id": 782,
+            "label": "SUBPREFECTA DISTRITAL DE PILLCO MARCA"
+        },
+        {
+            "id": 783,
+            "label": "FARMACIOA AGRICOLA TIERRA"
+        },
+        {
+            "id": 784,
+            "label": "REGION POLICIAL  HCO. - COMANDANTE PNP - HUANUCO"
+        },
+        {
+            "id": 785,
+            "label": "MUNICIPALIDAD DE NUEVO CHIMBOTE"
+        },
+        {
+            "id": 786,
+            "label": "MOBOFI SAC"
+        },
+        {
+            "id": 787,
+            "label": "INVERSIONES LECHE MASS S.A.C."
+        },
+        {
+            "id": 788,
+            "label": "SEÑOR DE LOS MILAGROS SEGURITY S.A.C."
+        },
+        {
+            "id": 789,
+            "label": "DIRECCION GENERAL DE INFRAESTRUCTURA HIDRAULICA Y RIEGO"
+        },
+        {
+            "id": 790,
+            "label": "FISCALIA PROVINCIAL PENAL DE AMARILIS - TERCER DESPACHO"
+        },
+        {
+            "id": 791,
+            "label": "CRUZANTO CONSULTORA Y CONSTRUCTORA EMPRESA INDIVIODUAL DE RESPONSABILIDAD LIMITADA"
+        },
+        {
+            "id": 792,
+            "label": "MUNICIPALIDAD DISTRITAL DE BAÑOS"
+        },
+        {
+            "id": 793,
+            "label": "FISCALIA SUPRAPROVINCIAL CORPORATIVA ESPECIALIZADA EN DELITOS E CORRUPCION DE FUNCIONARIOS - TERCER DESPACHO"
+        },
+        {
+            "id": 794,
+            "label": "FACULTAD DE ECONOMIA"
+        },
+        {
+            "id": 795,
+            "label": "EMPRESA CONSECIONARIA ELECTRO UCAYALI S.A."
+        },
+        {
+            "id": 805,
+            "label": "SEGURIDAD TOTAL N & W"
+        },
+        {
+            "id": 806,
+            "label": "INSTITUTO TECNOLOGICO DE LA PRODUCCION"
+        },
+        {
+            "id": 807,
+            "label": "ASOCIACION DIRECTORIO NACIONAL DE REGIDORES Y EX REGIDORES DEL PERU - DINARE PERU"
+        },
+        {
+            "id": 808,
+            "label": "CETPRO CARELI"
+        },
+        {
+            "id": 809,
+            "label": "CONSORCIO SUPERVISION HUANUCO"
+        },
+        {
+            "id": 810,
+            "label": "COLEGIO DE PSICOLOGOS DEL PERU"
+        },
+        {
+            "id": 811,
+            "label": "CONSORCIO CONSTRUCTOR"
+        },
+        {
+            "id": 838,
+            "label": "EMPRESA INDIVIDUAL R.L."
+        },
+        {
+            "id": 839,
+            "label": "GRUPO MASS.COM SAC"
+        },
+        {
+            "id": 840,
+            "label": "COLEGIO DE INGENIEROS DE JUNIN"
+        },
+        {
+            "id": 841,
+            "label": "TABLEROS   EN EL ORIENTE S.A.C."
+        }
+    ]
+}

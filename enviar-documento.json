@@ -1,0 +1,55 @@
+//este es un form data
+annexes
+{"annexes":[{"annexe":"","archive":-1,"name":"","validateText":"","validateFile":""}]}
+destinations
+{"destinations":[{"abbreviation_dependency":"PRESUPUESTO","dependency_reception_id":22,"abbreviation_entity":"MDPM","description":"GERENCIAL DE PLANEAMIENTO Y PRESUPUESTO","charge":"GERENTE","fullName":"YURIK ROSALES BRAVO","id":14}]}
+requirements
+{"requirements":[]}
+actions
+{"actions":[{"provided_id":1,"provided":"ATENCION"}]}
+shipping
+{"shipping":[{"detail":"REQUERIMIENTO-000013-2025-MDPM-INFORMATICA"}]}
+affair
+SERVICIO DE SISTEMA DE TRAMITE DOCUMENTARIO
+description
+date
+2025-06-03
+document_origin_id
+1
+document_priority_id
+2
+document_type_id
+30
+type_reception_id
+1
+type
+REQUERIMIENTO
+dependency_shipping_id
+282
+folio
+8
+detail_document_type_id
+1
+tupa
+0
+reference
+records
+0
+person_id
+0
+person_reception
+undefined
+transparency
+false
+number
+append
+false
+
+
+
+//respuesta
+{
+    "records": "0114892",
+    "registry": "0423339",
+    "id": 423339
+}

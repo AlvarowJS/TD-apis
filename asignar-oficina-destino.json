@@ -1,0 +1,41 @@
+
+
+//PAYLOAD
+{
+    "dependency_id": 22,
+    "dependency_shipping_id": 282,
+    "provided_id": 1,
+    "document_type_id": 30,
+    "type": "REQUERIMIENTO",
+    "detail_document_type_id": 1,
+    "destinations": [],
+    "countDocument": 1,
+    "dni": 0,
+    "number": ""
+},
+
+//Response 
+{
+    "destinations": [
+        {
+            "abbreviation_dependency": "PRESUPUESTO",
+            "dependency_reception_id": 22,
+            "abbreviation_entity": "MDPM",
+            "description": "GERENCIAL DE PLANEAMIENTO Y PRESUPUESTO",
+            "charge": "GERENTE",
+            "fullName": "YURIK ROSALES BRAVO",
+            "id": 14
+        }
+    ],
+    "provided": [
+        {
+            "provided_id": 1,
+            "provided": "ATENCION"
+        }
+    ],
+    "shipping": [
+        {
+            "detail": "REQUERIMIENTO-000013-2025-MDPM-INFORMATICA"
+        }
+    ]
+}
